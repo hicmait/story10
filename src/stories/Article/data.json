@@ -1,0 +1,3022 @@
+{
+  "data": [
+    {
+      "id": 29674,
+      "title": "Plan PME 2025: un cap politique clair, des attentes fortes pour les entrepreneurs\u2026 et leurs conseillers",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 6,
+      "relevance": 5,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-07 07:44:12",
+      "publishedAt": "2026-01-08 05:15:00",
+      "updatedAt": "2026-01-08 11:22:02",
+      "url": "plan-pme-2025-un-cap-politique-clair-des-attentes-fortes-pour-les-entrepreneurs-et-leurs-conseillers",
+      "main_media": {
+        "id": 53112,
+        "yPos": 17,
+        "yHeight": 74,
+        "path": "1767b5c0d7e06ba31bbe3a10f6c4babe5696f451.jpeg",
+        "webPath": "storage/uploads/medias/1767b5c0d7e06ba31bbe3a10f6c4babe5696f451.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53112/1767b5c0d7e06ba31bbe3a10f6c4babe5696f451.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53112/REDUCED-1767b5c0d7e06ba31bbe3a10f6c4babe5696f451.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53112/CROPPED-1767b5c0d7e06ba31bbe3a10f6c4babe5696f451.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Micheline",
+          "lastName": "CLAES",
+          "id": 8900,
+          "avatar": "storage/media/IMAGE/39852/AVATAR_f564b8798d6058bfdf8a768fa249aeae7195531a.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/39852/AVATAR_f564b8798d6058bfdf8a768fa249aeae7195531a.png",
+          "url": "micheline-claes",
+          "authorDetails": {
+            "id": 669
+          },
+          "signature": {
+            "title": "Micheline CLAES",
+            "head": "Administratrice de l\u0027Ordre des Experts Comptables Et comptables OECCBB SR"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 3,
+        "nameFr": "Actualit\u00e9",
+        "colorCode": "#faba09"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevet\u00e9s de Belgique - Soci\u00e9t\u00e9 Royale",
+        "abbreviation": "OECCBB",
+        "avatarWebPath": "storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "url": "ordre-des-experts-comptables-et-comptables-brevet-s-de-belgique-soci-t-royale"
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29675,
+      "title": "La Belgique s\u0027appr\u00eate \u00e0 sabrer dans les pensions alimentaires",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 1,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-07 09:17:43",
+      "publishedAt": "2026-01-08 05:10:00",
+      "updatedAt": "2026-01-08 09:46:09",
+      "url": "la-belgique-sapprete-a-sabrer-dans-les-pensions-alimentaires",
+      "main_media": {
+        "id": 53114,
+        "yPos": 0,
+        "yHeight": 50,
+        "path": "9eef61d3c5da3e59cc1db167fe091074b6e4c7d9.png",
+        "webPath": "storage/uploads/medias/9eef61d3c5da3e59cc1db167fe091074b6e4c7d9.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53114/9eef61d3c5da3e59cc1db167fe091074b6e4c7d9.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53114/REDUCED-9eef61d3c5da3e59cc1db167fe091074b6e4c7d9.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53114/CROPPED-9eef61d3c5da3e59cc1db167fe091074b6e4c7d9.png"
+      },
+      "author": [
+        {
+          "firstName": "Thierry",
+          "lastName": "Litannie",
+          "id": 7709,
+          "avatar": "storage/media/IMAGE/4547/AVATAR_774ed4d0fb83cf56cb1c8268defbdc9cb8157be5.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/4547/AVATAR_774ed4d0fb83cf56cb1c8268defbdc9cb8157be5.png",
+          "url": "thierry-litannie",
+          "authorDetails": {
+            "id": 53
+          },
+          "signature": {
+            "title": "Thierry Litannie",
+            "head": "Litannie Tax \u0026 Law, Avocats Litaxlaw"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29666,
+      "title": "Pilier 2 et \u00ab Side-by-Side Package \u00bb: vers un standard mondial\u2026 ou une exception am\u00e9ricaine structurelle ?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-05 22:03:56",
+      "publishedAt": "2026-01-08 05:08:00",
+      "updatedAt": "2026-01-07 11:38:55",
+      "url": "pilier-2-et-side-by-side-package-vers-un-standard-mondial-ou-une-exception-americaine-structurelle-",
+      "main_media": {
+        "id": 53090,
+        "yPos": 5,
+        "yHeight": 94,
+        "path": "9d505ba4cc807efa809e01b1106c6adb08f3e101.jpeg",
+        "webPath": "storage/uploads/medias/9d505ba4cc807efa809e01b1106c6adb08f3e101.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53090/9d505ba4cc807efa809e01b1106c6adb08f3e101.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53090/REDUCED-9d505ba4cc807efa809e01b1106c6adb08f3e101.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53090/CROPPED-9d505ba4cc807efa809e01b1106c6adb08f3e101.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Geoffroy",
+          "lastName": "Gal\u00e9a",
+          "id": 30358,
+          "avatar": "storage/media/IMAGE/39882/AVATAR_877d0d8405a8f77581886e7ff164216d244077e6.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/39882/AVATAR_877d0d8405a8f77581886e7ff164216d244077e6.png",
+          "url": "geoffroy-galea",
+          "authorDetails": {
+            "id": 1346
+          },
+          "signature": {
+            "title": "Geoffroy Gal\u00e9a",
+            "head": "Partner (Head of Tax) @ Fieldfisher | Professeur @ ICHEC-ESSF"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29677,
+      "title": "Intemp\u00e9ries hivernales: quelles mesures prendre?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 4,
+      "relatedArticles": {
+        "nl": {
+          "id": 29678,
+          "url": "slecht-winterweer-welke-maatregelen-moet-je-nemen"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-07 16:15:05",
+      "publishedAt": "2026-01-08 05:00:00",
+      "updatedAt": "2026-01-07 18:51:36",
+      "url": "intemperies-hivernales-quelles-mesures-prendre",
+      "main_media": {
+        "id": 53116,
+        "yPos": 0,
+        "yHeight": 50,
+        "path": "12a20deeed8ef4fcd506d726939c396432a765e7.png",
+        "webPath": "storage/uploads/medias/12a20deeed8ef4fcd506d726939c396432a765e7.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53116/12a20deeed8ef4fcd506d726939c396432a765e7.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53116/REDUCED-12a20deeed8ef4fcd506d726939c396432a765e7.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53116/CROPPED-12a20deeed8ef4fcd506d726939c396432a765e7.png"
+      },
+      "author": [
+        {
+          "firstName": "Roger",
+          "lastName": "Lassaux",
+          "id": 70648,
+          "avatar": "storage/media/IMAGE/7052/AVATAR_728e434fe9eefefbbbff21d51ab724a59fcf480a.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/7052/AVATAR_728e434fe9eefefbbbff21d51ab724a59fcf480a.png",
+          "url": "roger-lassaux",
+          "creator": {
+            "id": 8650,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 76
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 1815
+              },
+              {
+                "id": 9921
+              },
+              {
+                "id": 83
+              },
+              {
+                "id": 17828
+              },
+              {
+                "id": 10771
+              },
+              {
+                "id": 20916
+              },
+              {
+                "id": 22149
+              },
+              {
+                "id": 22305
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 72
+          },
+          "signature": {
+            "title": "Roger Lassaux",
+            "head": "R\u00e9dacteur en chef @ FFF"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 6,
+        "nameFr": "Pratique",
+        "colorCode": "#4e71e4"
+      },
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 3,
+        "nameFr": "GRH, Emploi, formation"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29676,
+      "title": "Taxe sur les comptes-titres: passage du taux de 0,15% \u00e0 0,3% - La TCT et la TOB: des petites taxes qui peuvent faire mal..",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-07 11:01:06",
+      "publishedAt": "2026-01-08 05:00:00",
+      "updatedAt": "2026-01-07 11:33:20",
+      "url": "taxe-sur-les-comptes-titres-passage-du-taux-de-015-a-03-la-tct-et-la-tob-des-petites-taxes-qui-peuvent-faire-mal..",
+      "main_media": {
+        "id": 53115,
+        "yPos": 17,
+        "yHeight": 50,
+        "path": "5b5dd8046ef9a448487634468ae4661cedd849ae.png",
+        "webPath": "storage/uploads/medias/5b5dd8046ef9a448487634468ae4661cedd849ae.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53115/5b5dd8046ef9a448487634468ae4661cedd849ae.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53115/REDUCED-5b5dd8046ef9a448487634468ae4661cedd849ae.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53115/CROPPED-5b5dd8046ef9a448487634468ae4661cedd849ae.png"
+      },
+      "author": [
+        {
+          "firstName": "Denis-Emmanuel",
+          "lastName": "Philippe",
+          "id": 42049,
+          "avatar": "storage/media/IMAGE/4984/AVATAR_e52bc05096f3d49d6f3158243ad1109fc5c6b43e.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/4984/AVATAR_e52bc05096f3d49d6f3158243ad1109fc5c6b43e.png",
+          "url": "denis-emmanuel-philippe",
+          "authorDetails": {
+            "id": 71
+          },
+          "signature": {
+            "title": "Denis-Emmanuel Philippe",
+            "head": "Avocat - Associ\u00e9 @ Bloom Law"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29633,
+      "title": "Gestion algorithmique au travail:  bient\u00f4t des mesures de protection ?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 4,
+      "relatedArticles": {
+        "en": {
+          "id": 29634,
+          "url": "meps-demand-new-measures-to-protect-against-algorithmic-management-at-work"
+        },
+        "nl": {
+          "id": 29635,
+          "url": "europarlementariers-eisen-nieuwe-maatregelen-ter-bescherming-tegen-algoritmisch-beheer-op-het-werk"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-02 16:20:27",
+      "publishedAt": "2026-01-08 05:00:00",
+      "updatedAt": "2026-01-05 14:01:20",
+      "url": "gestion-algorithmique-au-travail-bientot-des-mesures-de-protection-",
+      "main_media": {
+        "id": 53045,
+        "yPos": 0,
+        "yHeight": 50,
+        "path": "74f7b073ac8fbf9586460052fc25892b2a11b104.png",
+        "webPath": "storage/uploads/medias/74f7b073ac8fbf9586460052fc25892b2a11b104.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53045/74f7b073ac8fbf9586460052fc25892b2a11b104.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53045/REDUCED-74f7b073ac8fbf9586460052fc25892b2a11b104.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53045/CROPPED-74f7b073ac8fbf9586460052fc25892b2a11b104.png"
+      },
+      "type": {
+        "id": 12,
+        "nameFr": "D\u00e9bat",
+        "colorCode": "#5cc6f0"
+      },
+      "chains": [
+        {
+          "id": 226,
+          "nameFr": "Parlement Europ\u00e9en",
+          "organization": 9,
+          "createdAt": "2022-04-28 16:43:25",
+          "updatedAt": "2022-07-04 07:54:45",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/97250d673b13a53482ff89efc653ca66aff4c885.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28208/97250d673b13a53482ff89efc653ca66aff4c885.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/42ebe28f834055308fc85da015f65f1b88a9148c.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28209/42ebe28f834055308fc85da015f65f1b88a9148c.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/b55c76066426355522183a04fdede583a227721c.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28210/b55c76066426355522183a04fdede583a227721c.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 3,
+        "nameFr": "GRH, Emploi, formation"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29590,
+      "title": "Titres-services \u00e0 Bruxelles d\u00e8s 2026: hausse des prix, fin de l\u2019avantage fiscal et nouveaux frais possibles",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 6,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-27 19:16:35",
+      "publishedAt": "2026-01-07 05:15:00",
+      "updatedAt": "2026-01-07 11:40:53",
+      "url": "titres-services-a-bruxelles-des-2026-hausse-des-prix-fin-de-lavantage-fiscal-et-nouveaux-frais-possibles",
+      "main_media": {
+        "id": 52972,
+        "yPos": 2,
+        "yHeight": 88,
+        "path": "195523e6107a608c68384e837379e230ef6e841b.jpeg",
+        "webPath": "storage/uploads/medias/195523e6107a608c68384e837379e230ef6e841b.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52972/195523e6107a608c68384e837379e230ef6e841b.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52972/REDUCED-195523e6107a608c68384e837379e230ef6e841b.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52972/CROPPED-195523e6107a608c68384e837379e230ef6e841b.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Partner \u0026 Conseil Fiscal @ Deg \u0026 Partners"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 7,
+        "nameFr": "Patrimoine et finance personnel"
+      },
+      "organization": {
+        "id": 4,
+        "name": "DEG \u0026 PARTNERS CONSULTING COMPANY",
+        "abbreviation": "Deg \u0026 Partners",
+        "avatarWebPath": "storage/media/IMAGE/34/AVATAR_00e0170bb5fc8a8cae3fd79abdc36c943669673b.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/34/AVATAR_00e0170bb5fc8a8cae3fd79abdc36c943669673b.png",
+        "url": "deg-partners-consulting-company"
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29623,
+      "title": "La chronique.  Le nouveau r\u00e9gime belge de TVA applicable aux plats \u00e0 emporter.",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 7,
+      "relevance": 5,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-31 18:09:55",
+      "publishedAt": "2026-01-07 05:15:00",
+      "updatedAt": "2026-01-07 11:46:04",
+      "url": "la-chronique.-le-nouveau-regime-belge-de-tva-applicable-aux-plats-a-emporter.",
+      "main_media": {
+        "id": 53033,
+        "yPos": 0,
+        "yHeight": 100,
+        "path": "9d5aadbc6b9dad40c6e3b533d7e941d128855992.jpeg",
+        "webPath": "storage/uploads/medias/9d5aadbc6b9dad40c6e3b533d7e941d128855992.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53033/9d5aadbc6b9dad40c6e3b533d7e941d128855992.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53033/REDUCED-9d5aadbc6b9dad40c6e3b533d7e941d128855992.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53033/CROPPED-9d5aadbc6b9dad40c6e3b533d7e941d128855992.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident @ OECCBB"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Thierry",
+          "lastName": "Litannie",
+          "id": 7709,
+          "avatar": "storage/media/IMAGE/4547/AVATAR_774ed4d0fb83cf56cb1c8268defbdc9cb8157be5.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/4547/AVATAR_774ed4d0fb83cf56cb1c8268defbdc9cb8157be5.png",
+          "url": "thierry-litannie",
+          "authorDetails": {
+            "id": 53
+          },
+          "signature": {
+            "title": "Thierry Litannie",
+            "head": "Avocat Associ\u00e9 @ Andersen Law | Administrateur @ OECCBB"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevet\u00e9s de Belgique - Soci\u00e9t\u00e9 Royale",
+        "abbreviation": "OECCBB",
+        "avatarWebPath": "storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "url": "ordre-des-experts-comptables-et-comptables-brevet-s-de-belgique-soci-t-royale"
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29673,
+      "title": "Accroissements d\u2019imp\u00f4ts: d\u00e9couvrez le nouveau r\u00e9gime.",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 6,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-06 20:23:36",
+      "publishedAt": "2026-01-07 05:10:00",
+      "updatedAt": "2026-01-06 20:23:36",
+      "url": "accroissements-dimpots-decouvrez-le-nouveau-regime.",
+      "main_media": {
+        "id": 53105,
+        "yPos": 9,
+        "yHeight": 75,
+        "path": "69d446557f41bbcb0b3bd27192c581591b183273.jpeg",
+        "webPath": "storage/uploads/medias/69d446557f41bbcb0b3bd27192c581591b183273.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53105/69d446557f41bbcb0b3bd27192c581591b183273.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53105/REDUCED-69d446557f41bbcb0b3bd27192c581591b183273.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53105/CROPPED-69d446557f41bbcb0b3bd27192c581591b183273.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Fran\u00e7ois",
+          "lastName": "Charlez",
+          "id": 463727,
+          "avatar": "storage/media/IMAGE/29319/AVATAR_f099d26bbbd60a69b27b4278bdad7df50cd1e922.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/29319/AVATAR_f099d26bbbd60a69b27b4278bdad7df50cd1e922.png",
+          "url": "francois-charlez",
+          "authorDetails": {
+            "id": 334
+          },
+          "signature": {
+            "title": "Fran\u00e7ois Charlez",
+            "head": "Avocat associ\u00e9 @ Centrius"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29670,
+      "title": "L\u0027Europe face \u00e0 la grande confrontation: une d\u00e9pendance mortelle !",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 2,
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-06 11:22:43",
+      "publishedAt": "2026-01-07 05:05:00",
+      "updatedAt": "2026-01-06 19:29:54",
+      "url": "leurope-face-a-la-grande-confrontation-une-dependance-mortelle-",
+      "main_media": {
+        "id": 53101,
+        "yPos": 4,
+        "yHeight": 50,
+        "path": "69aef3d59e586f127ee7ac4f0948f5f3db9fac2c.png",
+        "webPath": "storage/uploads/medias/69aef3d59e586f127ee7ac4f0948f5f3db9fac2c.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53101/69aef3d59e586f127ee7ac4f0948f5f3db9fac2c.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53101/REDUCED-69aef3d59e586f127ee7ac4f0948f5f3db9fac2c.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53101/CROPPED-69aef3d59e586f127ee7ac4f0948f5f3db9fac2c.png"
+      },
+      "author": [
+        {
+          "firstName": "Bruno",
+          "lastName": "Colmant",
+          "id": 24534,
+          "avatar": "storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "url": "bruno-colmant",
+          "authorDetails": {
+            "id": 129
+          },
+          "signature": {
+            "title": "Bruno Colmant",
+            "head": "Professeur, Membre de l\u0027Acad\u00e9mie Royale"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29611,
+      "title": "Guerre d\u0027agression de la Russie contre l\u0027Ukraine: prorogation de six mois suppl\u00e9mentaires des sanctions \u00e9conomiques europ\u00e9ennes",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 4,
+      "relatedArticles": {
+        "nl": {
+          "id": 29612,
+          "url": "ruslands-aanvalsoorlog-tegen-oekraine-raad-verlengt-opnieuw-economische-sancties-met-6-maanden"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-30 15:44:22",
+      "publishedAt": "2026-01-07 05:00:00",
+      "updatedAt": "2026-01-05 09:44:46",
+      "url": "guerre-dagression-de-la-russie-contre-lukraine-prorogation-de-six-mois-supplementaires-des-sanctions-economiques-europeennes",
+      "main_media": {
+        "id": 53019,
+        "yPos": 19,
+        "yHeight": 33,
+        "path": "5285f707ac72beb6fec787bc982d8307bcbb861d.png",
+        "webPath": "storage/uploads/medias/5285f707ac72beb6fec787bc982d8307bcbb861d.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53019/5285f707ac72beb6fec787bc982d8307bcbb861d.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53019/REDUCED-5285f707ac72beb6fec787bc982d8307bcbb861d.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53019/CROPPED-5285f707ac72beb6fec787bc982d8307bcbb861d.png"
+      },
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "chains": [
+        {
+          "id": 41,
+          "nameFr": "Conseil europ\u00e9en",
+          "organization": 9,
+          "createdAt": "2019-03-13 09:47:01",
+          "updatedAt": "2022-07-03 11:11:37",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/03d49a8ec711f4ff5dc714e18a20441ba5f19353.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/7641/03d49a8ec711f4ff5dc714e18a20441ba5f19353.png",
+              "type": null
+            },
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/4c9e7ae7ed2892ba549082d685f0df158a7213a3.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28194/4c9e7ae7ed2892ba549082d685f0df158a7213a3.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/e488b1a3dc32e7c833f411310b0dde8bcfdf522c.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28195/e488b1a3dc32e7c833f411310b0dde8bcfdf522c.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/691291002bd4c9e312ab52cfb28ccc75ec2b9ffd.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28196/691291002bd4c9e312ab52cfb28ccc75ec2b9ffd.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29671,
+      "title": "Pr\u00e9visions d\u0027inflation - nouvelle indexation  en 2026: l\u0027analyse du Bureau F\u00e9d\u00e9ral du Plan",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 1,
+      "relatedArticles": {
+        "nl": {
+          "id": 29672,
+          "url": "indexatie"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-06 18:12:56",
+      "publishedAt": "2026-01-07 05:00:00",
+      "updatedAt": "2026-01-07 07:57:21",
+      "url": "previsions-dinflation-nouvelle-indexation-en-2026-lanalyse-du-bureau-federal-du-plan",
+      "main_media": {
+        "id": 53103,
+        "yPos": 0,
+        "yHeight": 50,
+        "path": "8da3ac2b6b086f9994a5469905621118e2ca2d82.png",
+        "webPath": "storage/uploads/medias/8da3ac2b6b086f9994a5469905621118e2ca2d82.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53103/8da3ac2b6b086f9994a5469905621118e2ca2d82.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53103/REDUCED-8da3ac2b6b086f9994a5469905621118e2ca2d82.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53103/CROPPED-8da3ac2b6b086f9994a5469905621118e2ca2d82.png"
+      },
+      "type": {
+        "id": 13,
+        "nameFr": "Etude | Enqu\u00eate",
+        "colorCode": "#ffa274"
+      },
+      "chains": [
+        {
+          "id": 46,
+          "nameFr": "Bureau f\u00e9d\u00e9ral du Plan",
+          "organization": 9,
+          "createdAt": "2019-04-29 07:16:11",
+          "updatedAt": "2022-07-18 14:30:08",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/e6d54360a8f87bea0823888ab108c2cdbb44c026.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/8236/e6d54360a8f87bea0823888ab108c2cdbb44c026.png",
+              "type": null
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/b484b67eb49c690a719925b805d3baf6ba1b2ba9.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28224/b484b67eb49c690a719925b805d3baf6ba1b2ba9.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/b57505cd8b3fa6300719802e46515046e2638bf1.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28225/b57505cd8b3fa6300719802e46515046e2638bf1.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29455,
+      "title": "Petits colis hors UE: une nouvelle fiscalit\u00e9 en construction?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 7,
+      "relatedArticles": {
+        "nl": {
+          "id": 29668,
+          "url": "kleine-pakketten-buiten-de-eu-een-nieuwe-belasting-in-ontwikkeling"
+        }
+      },
+      "relevance": 5,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-13 21:46:46",
+      "publishedAt": "2026-01-06 05:15:00",
+      "updatedAt": "2026-01-06 19:05:37",
+      "url": "petits-colis-hors-ue-une-nouvelle-fiscalite-en-construction",
+      "main_media": {
+        "id": 52769,
+        "yPos": 9,
+        "yHeight": 74,
+        "path": "4fb17dea8a8040e892ecdcc72a06bd73d42b04c2.jpeg",
+        "webPath": "storage/uploads/medias/4fb17dea8a8040e892ecdcc72a06bd73d42b04c2.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52769/4fb17dea8a8040e892ecdcc72a06bd73d42b04c2.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52769/REDUCED-4fb17dea8a8040e892ecdcc72a06bd73d42b04c2.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52769/CROPPED-4fb17dea8a8040e892ecdcc72a06bd73d42b04c2.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident @ OECCBB"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevet\u00e9s de Belgique - Soci\u00e9t\u00e9 Royale",
+        "abbreviation": "OECCBB",
+        "avatarWebPath": "storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "url": "ordre-des-experts-comptables-et-comptables-brevet-s-de-belgique-soci-t-royale"
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29665,
+      "title": "La PME paie, innove et cr\u00e9e des emplois. Que re\u00e7oit-elle en retour ?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 5,
+      "relatedArticles": {
+        "nl": {
+          "id": 29664,
+          "url": "de-kmo-betaalt-innoveert-en-creeert-jobs.-wat-krijgt-ze-terug"
+        }
+      },
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-05 21:58:17",
+      "publishedAt": "2026-01-06 05:10:00",
+      "updatedAt": "2026-01-05 21:58:17",
+      "url": "la-pme-paie-innove-et-cree-des-emplois.-que-recoit-elle-en-retour-",
+      "main_media": {
+        "id": 53089,
+        "yPos": 22,
+        "yHeight": 75,
+        "path": "3393d2a88256286d0edd3ad9b7ccd05f194e9693.jpeg",
+        "webPath": "storage/uploads/medias/3393d2a88256286d0edd3ad9b7ccd05f194e9693.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53089/3393d2a88256286d0edd3ad9b7ccd05f194e9693.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53089/REDUCED-3393d2a88256286d0edd3ad9b7ccd05f194e9693.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53089/CROPPED-3393d2a88256286d0edd3ad9b7ccd05f194e9693.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Rudy",
+          "lastName": "Aernoudt",
+          "id": 458199,
+          "avatar": "storage/media/IMAGE/20213/AVATAR_0104d2ab8f893384c520bc6f6885c244d460439d.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/20213/AVATAR_0104d2ab8f893384c520bc6f6885c244d460439d.png",
+          "url": "rudy-aernoudt",
+          "creator": {
+            "id": 44744,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 17698
+              },
+              {
+                "id": 20916
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 278
+          },
+          "signature": {
+            "title": "Rudy Aernoudt",
+            "head": "Professeur, \u00e9conomiste et philosophe"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 2,
+        "nameFr": "Opinion",
+        "colorCode": "#684117"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29646,
+      "title": "2026: L\u0027Europe au bord d\u0027une mort c\u00e9r\u00e9brale?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relatedArticles": {
+        "nl": {
+          "id": 29647,
+          "url": "2026-europa-aan-de-rand-van-een-hersendood"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-03 18:23:14",
+      "publishedAt": "2026-01-06 05:05:00",
+      "updatedAt": "2026-01-04 11:24:10",
+      "url": "2026-leurope-au-bord-dune-mort-cerebrale",
+      "main_media": {
+        "id": 53064,
+        "yPos": 8,
+        "yHeight": 89,
+        "path": "6407d9311f0323a170e784811327bf2789e8eb75.jpeg",
+        "webPath": "storage/uploads/medias/6407d9311f0323a170e784811327bf2789e8eb75.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53064/6407d9311f0323a170e784811327bf2789e8eb75.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53064/REDUCED-6407d9311f0323a170e784811327bf2789e8eb75.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53064/CROPPED-6407d9311f0323a170e784811327bf2789e8eb75.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Bruno",
+          "lastName": "Colmant",
+          "id": 24534,
+          "avatar": "storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "url": "bruno-colmant",
+          "authorDetails": {
+            "id": 129
+          },
+          "signature": {
+            "title": "Bruno Colmant",
+            "head": "Professeur, Membre de l\u0027Acad\u00e9mie Royale"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 2,
+        "nameFr": "Opinion",
+        "colorCode": "#684117"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29662,
+      "title": "L\u2019illusion du salut par la d\u00e9r\u00e9glementation environnementale",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 5,
+      "relatedArticles": {
+        "nl": {
+          "id": 29667,
+          "url": "de-illusie-van-redding-door-milieuregulering-afschaffen"
+        }
+      },
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-05 21:47:34",
+      "publishedAt": "2026-01-06 05:05:00",
+      "updatedAt": "2026-01-05 21:48:21",
+      "url": "lillusion-du-salut-par-la-dereglementation-environnementale",
+      "main_media": {
+        "id": 53086,
+        "yPos": 10,
+        "yHeight": 62,
+        "path": "fd572d3d04c1a418290bc762431420617790b54e.jpeg",
+        "webPath": "storage/uploads/medias/fd572d3d04c1a418290bc762431420617790b54e.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53086/fd572d3d04c1a418290bc762431420617790b54e.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53086/REDUCED-fd572d3d04c1a418290bc762431420617790b54e.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53086/CROPPED-fd572d3d04c1a418290bc762431420617790b54e.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Etienne",
+          "lastName": "de Callata\u00ff",
+          "id": 473878,
+          "avatar": "storage/media/IMAGE/37699/AVATAR_934ba366f0117710b26179ff50c17b06d515b70c.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/37699/AVATAR_934ba366f0117710b26179ff50c17b06d515b70c.png",
+          "url": "etienne-de-callatay",
+          "creator": {
+            "id": 44744,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 17698
+              },
+              {
+                "id": 20916
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 1206
+          },
+          "signature": {
+            "title": "Etienne de Callata\u00ff",
+            "head": "Cofondateur et Chief Economist @ Orcadia Asset Management"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29658,
+      "title": "Le premier langage de l\u2019humanit\u00e9 fut celui des comptables et les bonnes r\u00e9solutions de Nouvel An, aussi !",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 2,
+      "relevance": 3,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-05 18:00:29",
+      "publishedAt": "2026-01-06 05:05:00",
+      "updatedAt": "2026-01-05 21:38:42",
+      "url": "le-premier-langage-de-lhumanite-fut-celui-des-comptables-et-les-bonnes-resolutions-de-nouvel-an-aussi-",
+      "main_media": {
+        "id": 53079,
+        "yPos": 0,
+        "yHeight": 50,
+        "path": "089f690abac625306c4a3e23f2b77a956f06a091.png",
+        "webPath": "storage/uploads/medias/089f690abac625306c4a3e23f2b77a956f06a091.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53079/089f690abac625306c4a3e23f2b77a956f06a091.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53079/REDUCED-089f690abac625306c4a3e23f2b77a956f06a091.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53079/CROPPED-089f690abac625306c4a3e23f2b77a956f06a091.png"
+      },
+      "author": [
+        {
+          "firstName": "Guy",
+          "lastName": "KAHN",
+          "id": 25530,
+          "avatar": "storage/media/IMAGE/33618/AVATAR_b068f7d11d3c52a7f418761a009fbfa933c39eeb.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/33618/AVATAR_b068f7d11d3c52a7f418761a009fbfa933c39eeb.png",
+          "url": "guy-kahn",
+          "authorDetails": {
+            "id": 379
+          },
+          "signature": {
+            "title": "Guy KAHN",
+            "head": "Pr\u00e9sident @ Experts-comptables sans fronti\u00e8res | Administrateur @ Forum For the Future"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#684117",
+        "id": 2,
+        "nameFr": "Profession"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29642,
+      "title": "Croissance mod\u00e9r\u00e9e et d\u00e9ficit persistant: la Belgique reste aux prises avec ses finances publiques",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 8,
+      "relatedArticles": {
+        "nl": {
+          "id": 29643,
+          "url": "matige-groei-en-aanhoudend-tekort-belgie-blijft-worstelen-met-zijn-overheidsfinancien"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-03 12:32:26",
+      "publishedAt": "2026-01-06 05:00:00",
+      "updatedAt": "2026-01-05 08:51:31",
+      "url": "croissance-moderee-et-deficit-persistant-la-belgique-reste-aux-prises-avec-ses-finances-publiques",
+      "main_media": {
+        "id": 53055,
+        "yPos": 0,
+        "yHeight": 74,
+        "path": "ca7d2665a2618438b5978c543c6f7fa385714657.png",
+        "webPath": "storage/uploads/medias/ca7d2665a2618438b5978c543c6f7fa385714657.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53055/ca7d2665a2618438b5978c543c6f7fa385714657.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53055/REDUCED-ca7d2665a2618438b5978c543c6f7fa385714657.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53055/CROPPED-ca7d2665a2618438b5978c543c6f7fa385714657.png"
+      },
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "chains": [
+        {
+          "id": 232,
+          "nameFr": "Banque Nationale de Belgique",
+          "organization": 9,
+          "createdAt": "2022-05-17 06:32:55",
+          "updatedAt": "2022-07-04 08:20:35",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/6fda83359a386f9bf818d49fb4d710d6b8f0063a.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28153/6fda83359a386f9bf818d49fb4d710d6b8f0063a.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/8b1eb8434fc0ed490dd2127b295377aace03dacf.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28154/8b1eb8434fc0ed490dd2127b295377aace03dacf.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/926c8ef2a1f750a13235825777532536313ac8c1.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28155/926c8ef2a1f750a13235825777532536313ac8c1.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29659,
+      "title": "Prix moyen des carburants en 2025 (TVA incluse)",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 1,
+      "relatedArticles": {
+        "nl": {
+          "id": 29669,
+          "url": "gemiddelde-brandstofprijzen-in-2025-inclusief-btw"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-05 19:12:19",
+      "publishedAt": "2026-01-06 05:00:00",
+      "updatedAt": "2026-01-06 11:02:03",
+      "url": "prix-moyen-des-carburants-en-2025-tva-incluse",
+      "main_media": {
+        "id": 53083,
+        "yPos": 0,
+        "yHeight": 33,
+        "path": "3cfdc93c91e908452fe2fd5903c60db314b4d2b0.png",
+        "webPath": "storage/uploads/medias/3cfdc93c91e908452fe2fd5903c60db314b4d2b0.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53083/3cfdc93c91e908452fe2fd5903c60db314b4d2b0.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53083/REDUCED-3cfdc93c91e908452fe2fd5903c60db314b4d2b0.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53083/CROPPED-3cfdc93c91e908452fe2fd5903c60db314b4d2b0.png"
+      },
+      "type": {
+        "id": 6,
+        "nameFr": "Pratique",
+        "colorCode": "#4e71e4"
+      },
+      "chains": [
+        {
+          "id": 59,
+          "nameFr": "SPF Economie",
+          "organization": 9,
+          "createdAt": "2019-09-16 09:25:16",
+          "updatedAt": "2022-08-03 06:08:14",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/0927596c6795257e2427cf6cc8e1ff1778b0eeab.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/9656/0927596c6795257e2427cf6cc8e1ff1778b0eeab.png",
+              "type": null
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/03e080b5774ea9dfb2a4925b20bdb881ec6de803.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28160/03e080b5774ea9dfb2a4925b20bdb881ec6de803.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/82788dbf684d1feebd848d64ba87fe76203be966.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28162/82788dbf684d1feebd848d64ba87fe76203be966.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/0496d1fc53b77df27e839b3f6dba528a9c5392cf.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28321/0496d1fc53b77df27e839b3f6dba528a9c5392cf.png",
+              "type": "AVATAR"
+            }
+          ]
+        },
+        {
+          "id": 184,
+          "nameFr": "Office belge des statistiques",
+          "organization": 9,
+          "createdAt": "2021-11-18 13:28:27",
+          "updatedAt": "2022-07-04 16:18:28",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/8e0ef594412b5018f06909809bd1c31186fc6f54.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/23139/8e0ef594412b5018f06909809bd1c31186fc6f54.png",
+              "type": null
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/49bdc8f08f14b6d6923df832e838a786933c240c.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28156/49bdc8f08f14b6d6923df832e838a786933c240c.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/233f7f4d0f1798f953c4cb2ed25cef9e2ebf6e6b.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28157/233f7f4d0f1798f953c4cb2ed25cef9e2ebf6e6b.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29402,
+      "title": "L\u2019utilisation du soutien financier comme une alternative \u00e0 la transmission de soci\u00e9t\u00e9s.",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 5,
+      "relevance": 5,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 1,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-09 14:03:24",
+      "publishedAt": "2026-01-05 05:30:00",
+      "updatedAt": "2026-01-05 12:03:14",
+      "url": "lutilisation-du-soutien-financier-comme-une-alternative-a-la-transmission-de-societes.",
+      "main_media": {
+        "id": 52717,
+        "yPos": 0,
+        "yHeight": 98,
+        "path": "e03f0823bcad9d2514d1c34b0aa1f05f8aacb8ad.jpeg",
+        "webPath": "storage/uploads/medias/e03f0823bcad9d2514d1c34b0aa1f05f8aacb8ad.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52717/e03f0823bcad9d2514d1c34b0aa1f05f8aacb8ad.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52717/REDUCED-e03f0823bcad9d2514d1c34b0aa1f05f8aacb8ad.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52717/CROPPED-e03f0823bcad9d2514d1c34b0aa1f05f8aacb8ad.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Alexandra",
+          "lastName": "Stevens",
+          "id": 462791,
+          "avatar": "storage/media/IMAGE/31337/AVATAR_fb0eff19dfe2bb12259f76ad28c2e2f63550a227.jpeg",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31337/AVATAR_fb0eff19dfe2bb12259f76ad28c2e2f63550a227.jpeg",
+          "url": "alexandra-stevens",
+          "creator": {
+            "id": 44744,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 17698
+              },
+              {
+                "id": 20916
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 1360
+          },
+          "signature": {
+            "title": "Alexandra Stevens",
+            "head": "Assistante de Direction @ OECCBB"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Micheline",
+          "lastName": "CLAES",
+          "id": 8900,
+          "avatar": "storage/media/IMAGE/39852/AVATAR_f564b8798d6058bfdf8a768fa249aeae7195531a.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/39852/AVATAR_f564b8798d6058bfdf8a768fa249aeae7195531a.png",
+          "url": "micheline-claes",
+          "authorDetails": {
+            "id": 669
+          },
+          "signature": {
+            "title": "Micheline CLAES",
+            "head": "Administratrice de l\u0027Ordre des Experts Comptables Et comptables OECCBB SR"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#676666",
+        "id": 11,
+        "nameFr": "Comptabilit\u00e9"
+      },
+      "organization": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevet\u00e9s de Belgique - Soci\u00e9t\u00e9 Royale",
+        "abbreviation": "OECCBB",
+        "avatarWebPath": "storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "url": "ordre-des-experts-comptables-et-comptables-brevet-s-de-belgique-soci-t-royale"
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29446,
+      "title": "Hybride rechargeable, thermique ou \u00e9lectrique: ce qui change (vraiment) pour l\u2019ind\u00e9pendant d\u00e8s 2026",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 8,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 2,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-13 14:13:46",
+      "publishedAt": "2026-01-05 05:15:00",
+      "updatedAt": "2026-01-05 12:09:59",
+      "url": "hybride-rechargeable-thermique-ou-electrique-ce-qui-change-vraiment-pour-lindependant-des-2026",
+      "main_media": {
+        "id": 52757,
+        "yPos": 14,
+        "yHeight": 74,
+        "path": "571df1a38345cf6f61172f2d669b068a6598dff8.jpeg",
+        "webPath": "storage/uploads/medias/571df1a38345cf6f61172f2d669b068a6598dff8.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52757/571df1a38345cf6f61172f2d669b068a6598dff8.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52757/REDUCED-571df1a38345cf6f61172f2d669b068a6598dff8.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52757/CROPPED-571df1a38345cf6f61172f2d669b068a6598dff8.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Partner \u0026 Conseil Fiscal @ Deg \u0026 Partners"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 4,
+        "name": "DEG \u0026 PARTNERS CONSULTING COMPANY",
+        "abbreviation": "Deg \u0026 Partners",
+        "avatarWebPath": "storage/media/IMAGE/34/AVATAR_00e0170bb5fc8a8cae3fd79abdc36c943669673b.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/34/AVATAR_00e0170bb5fc8a8cae3fd79abdc36c943669673b.png",
+        "url": "deg-partners-consulting-company"
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29655,
+      "title": "TVA \u00e0 la carte: l\u2019art d\u2019ouvrir des portes\u2026 et des contentieux",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 5,
+      "relatedArticles": {
+        "nl": {
+          "id": 29656,
+          "url": "btw-a-la-carte-de-kunst-van-het-openen-van-deuren...-en-geschillen"
+        }
+      },
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 2,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-04 21:07:57",
+      "publishedAt": "2026-01-05 05:15:00",
+      "updatedAt": "2026-01-05 12:11:59",
+      "url": "tva-a-la-carte-lart-douvrir-des-portes-et-des-contentieux",
+      "main_media": {
+        "id": 53074,
+        "yPos": 19,
+        "yHeight": 74,
+        "path": "fa7990f13fd6c9c6b3c64a56b53e0852f03870a0.jpeg",
+        "webPath": "storage/uploads/medias/fa7990f13fd6c9c6b3c64a56b53e0852f03870a0.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53074/fa7990f13fd6c9c6b3c64a56b53e0852f03870a0.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53074/REDUCED-fa7990f13fd6c9c6b3c64a56b53e0852f03870a0.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53074/CROPPED-fa7990f13fd6c9c6b3c64a56b53e0852f03870a0.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 2,
+        "nameFr": "Opinion",
+        "colorCode": "#684117"
+      },
+      "category": {
+        "colorCode": "#e2101a",
+        "id": 1,
+        "nameFr": "Fiscalit\u00e9"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29652,
+      "title": "\u200bVenezuela: et oui! L\u2019ann\u00e9e 2026 commence mal",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 2,
+      "relatedArticles": {
+        "nl": {
+          "id": 29653,
+          "url": "venezuela-en-ja-het-jaar-2026-begint-slecht"
+        }
+      },
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-04 11:29:24",
+      "publishedAt": "2026-01-05 05:05:00",
+      "updatedAt": "2026-01-05 12:06:53",
+      "url": "venezuela-et-oui-lannee-2026-commence-mal",
+      "main_media": {
+        "id": 53070,
+        "yPos": 0,
+        "yHeight": 57,
+        "path": "1a144980ab49de2bc913c8366c1450a3050d4d40.jpeg",
+        "webPath": "storage/uploads/medias/1a144980ab49de2bc913c8366c1450a3050d4d40.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53070/1a144980ab49de2bc913c8366c1450a3050d4d40.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53070/REDUCED-1a144980ab49de2bc913c8366c1450a3050d4d40.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53070/CROPPED-1a144980ab49de2bc913c8366c1450a3050d4d40.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Bruno",
+          "lastName": "Colmant",
+          "id": 24534,
+          "avatar": "storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "url": "bruno-colmant",
+          "authorDetails": {
+            "id": 129
+          },
+          "signature": {
+            "title": "Bruno Colmant",
+            "head": "Professeur, Membre de l\u0027Acad\u00e9mie Royale"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29617,
+      "title": "7 employ\u00e9s sur 10 ont trop froid en hiver: quelles cons\u00e9quences ?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relatedArticles": {
+        "nl": {
+          "id": 29618,
+          "url": "7-op-de-10-werknemers-heeft-het-te-koud-in-de-winter"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-31 10:04:56",
+      "publishedAt": "2026-01-05 05:00:00",
+      "updatedAt": "2026-01-05 12:16:56",
+      "url": "7-employes-sur-10-ont-trop-froid-en-hiver-quelles-consequences-",
+      "main_media": {
+        "id": 53026,
+        "yPos": 23,
+        "yHeight": 50,
+        "path": "6b2cd0d98732776e55993f2b0f8b167a79e25ca4.png",
+        "webPath": "storage/uploads/medias/6b2cd0d98732776e55993f2b0f8b167a79e25ca4.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53026/6b2cd0d98732776e55993f2b0f8b167a79e25ca4.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53026/REDUCED-6b2cd0d98732776e55993f2b0f8b167a79e25ca4.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53026/CROPPED-6b2cd0d98732776e55993f2b0f8b167a79e25ca4.png"
+      },
+      "type": {
+        "id": 13,
+        "nameFr": "Etude | Enqu\u00eate",
+        "colorCode": "#ffa274"
+      },
+      "chains": [
+        {
+          "id": 22,
+          "nameFr": "liantis",
+          "organization": 9,
+          "createdAt": "2018-11-09 13:49:49",
+          "updatedAt": "2022-07-02 12:30:15",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/9bad6b46aad5d66ca7c9958e63a7890fd2f932da.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/6353/9bad6b46aad5d66ca7c9958e63a7890fd2f932da.png",
+              "type": null
+            },
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/fb4fafa9083922d5ed223f4f61f126672fc432c3.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28177/fb4fafa9083922d5ed223f4f61f126672fc432c3.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/d28eff3aff2e6bb784e6e1f3982c81aeea0c784d.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28178/d28eff3aff2e6bb784e6e1f3982c81aeea0c784d.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/f10d5c3c0bef1c59edf55edce8ae02f24cbc1d3b.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28179/f10d5c3c0bef1c59edf55edce8ae02f24cbc1d3b.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 3,
+        "nameFr": "GRH, Emploi, formation"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29644,
+      "title": "Tarifs 2026 des frais de d\u00e9p\u00f4t des comptes annuels",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relatedArticles": {
+        "nl": {
+          "id": 29645,
+          "url": "frais-de-depot-2026"
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-03 16:28:13",
+      "publishedAt": "2026-01-05 05:00:00",
+      "updatedAt": "2026-01-05 12:30:19",
+      "url": "tarifs-2026-des-frais-de-depot-des-comptes-annuels",
+      "main_media": {
+        "id": 53062,
+        "yPos": 0,
+        "yHeight": 69,
+        "path": "95658c55f10990082e7758b632b7cc06ea69b745.png",
+        "webPath": "storage/uploads/medias/95658c55f10990082e7758b632b7cc06ea69b745.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53062/95658c55f10990082e7758b632b7cc06ea69b745.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53062/REDUCED-95658c55f10990082e7758b632b7cc06ea69b745.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53062/CROPPED-95658c55f10990082e7758b632b7cc06ea69b745.png"
+      },
+      "type": {
+        "id": 6,
+        "nameFr": "Pratique",
+        "colorCode": "#4e71e4"
+      },
+      "chains": [
+        {
+          "id": 232,
+          "nameFr": "Banque Nationale de Belgique",
+          "organization": 9,
+          "createdAt": "2022-05-17 06:32:55",
+          "updatedAt": "2022-07-04 08:20:35",
+          "mediaChain": [
+            {
+              "language": "fr",
+              "avatar": "storage/uploads/blog/media-avatar/6fda83359a386f9bf818d49fb4d710d6b8f0063a.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28153/6fda83359a386f9bf818d49fb4d710d6b8f0063a.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "en",
+              "avatar": "storage/uploads/blog/media-avatar/8b1eb8434fc0ed490dd2127b295377aace03dacf.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28154/8b1eb8434fc0ed490dd2127b295377aace03dacf.png",
+              "type": "AVATAR"
+            },
+            {
+              "language": "nl",
+              "avatar": "storage/uploads/blog/media-avatar/926c8ef2a1f750a13235825777532536313ac8c1.png",
+              "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/28155/926c8ef2a1f750a13235825777532536313ac8c1.png",
+              "type": "AVATAR"
+            }
+          ]
+        }
+      ],
+      "category": {
+        "colorCode": "#676666",
+        "id": 11,
+        "nameFr": "Comptabilit\u00e9"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29637,
+      "title": "C\u00e9der une partie de ses activit\u00e9s?  Quelles sont les pistes envisageables?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 7,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 1,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-03 11:46:31",
+      "publishedAt": "2026-01-04 05:15:00",
+      "updatedAt": "2026-01-05 12:37:18",
+      "url": "ceder-une-partie-de-ses-activites-quelles-sont-les-pistes-envisageables",
+      "main_media": {
+        "id": 53050,
+        "yPos": 16,
+        "yHeight": 74,
+        "path": "51ace417309874a6298a87b6a3297d54139650b1.jpeg",
+        "webPath": "storage/uploads/medias/51ace417309874a6298a87b6a3297d54139650b1.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53050/51ace417309874a6298a87b6a3297d54139650b1.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53050/REDUCED-51ace417309874a6298a87b6a3297d54139650b1.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53050/CROPPED-51ace417309874a6298a87b6a3297d54139650b1.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "David",
+          "lastName": "Blondeel",
+          "id": 463726,
+          "avatar": "storage/media/IMAGE/29318/AVATAR_37c7ef3d5623d8f70fda269689052d1af912ea6d.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/29318/AVATAR_37c7ef3d5623d8f70fda269689052d1af912ea6d.png",
+          "url": "david-blondeel",
+          "authorDetails": {
+            "id": 333
+          },
+          "signature": {
+            "title": "David Blondeel",
+            "head": "Avocat associ\u00e9 @ Centrius"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 13,
+        "nameFr": "Droit"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29639,
+      "title": "Non-concurrence: l\u0027employeur a-t-il le droit de limiter l\u0027avenir professionnel de ses employ\u00e9s?",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 4,
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-03 12:00:18",
+      "publishedAt": "2026-01-04 05:10:00",
+      "updatedAt": "2026-01-05 12:39:42",
+      "url": "non-concurrence-lemployeur-a-t-il-le-droit-de-limiter-lavenir-professionnel-de-ses-employes",
+      "main_media": {
+        "id": 53051,
+        "yPos": 12,
+        "yHeight": 74,
+        "path": "f59722c505b77b773bf57fa919a8237d1a64a4f5.jpeg",
+        "webPath": "storage/uploads/medias/f59722c505b77b773bf57fa919a8237d1a64a4f5.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53051/f59722c505b77b773bf57fa919a8237d1a64a4f5.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53051/REDUCED-f59722c505b77b773bf57fa919a8237d1a64a4f5.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53051/CROPPED-f59722c505b77b773bf57fa919a8237d1a64a4f5.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "C\u00e9line",
+          "lastName": "Kunnen",
+          "id": 470541,
+          "avatar": "storage/media/IMAGE/30195/AVATAR_26aa3a19225c6ce9d34f6d01aa4db9a1e59d2b5e.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/30195/AVATAR_26aa3a19225c6ce9d34f6d01aa4db9a1e59d2b5e.png",
+          "url": "celine-kunnen",
+          "creator": {
+            "id": 8650,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 76
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 1815
+              },
+              {
+                "id": 9921
+              },
+              {
+                "id": 83
+              },
+              {
+                "id": 17828
+              },
+              {
+                "id": 10771
+              },
+              {
+                "id": 20916
+              },
+              {
+                "id": 22149
+              },
+              {
+                "id": 22305
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 340
+          },
+          "signature": {
+            "title": "C\u00e9line Kunnen",
+            "head": "Avocate associ\u00e9e @ Centrius"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#e95b2b",
+        "id": 9,
+        "nameFr": "Social"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29638,
+      "title": "Un mauvais vent fiscal et social se l\u00e8ve sur la Belgique",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relatedArticles": {
+        "nl": {
+          "id": 29641,
+          "url": "een-slechte-fiscale-en-sociale-wind-waait-over-belgie."
+        }
+      },
+      "relevance": 3,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 0,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-03 11:58:31",
+      "publishedAt": "2026-01-04 05:01:00",
+      "updatedAt": "2026-01-05 12:41:06",
+      "url": "un-mauvais-vent-fiscal-et-social-se-leve-sur-la-belgique",
+      "main_media": {
+        "id": 53053,
+        "yPos": 0,
+        "yHeight": 50,
+        "path": "d689887b277028ff98f25384fc171ed2af64aedc.png",
+        "webPath": "storage/uploads/medias/d689887b277028ff98f25384fc171ed2af64aedc.png",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53053/d689887b277028ff98f25384fc171ed2af64aedc.png",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53053/REDUCED-d689887b277028ff98f25384fc171ed2af64aedc.png",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53053/CROPPED-d689887b277028ff98f25384fc171ed2af64aedc.png"
+      },
+      "author": [
+        {
+          "firstName": "Bruno",
+          "lastName": "Colmant",
+          "id": 24534,
+          "avatar": "storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "url": "bruno-colmant",
+          "authorDetails": {
+            "id": 129
+          },
+          "signature": {
+            "title": "Bruno Colmant",
+            "head": "Professeur, Membre de l\u0027Acad\u00e9mie Royale"
+          },
+          "enableAvatar": true,
+          "priority": 0
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": -1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29426,
+      "title": "La police \u00e9conomique et les tribunaux de l\u2019entreprise: Un r\u00f4le n\u00e9cessaire",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 69,
+      "relevance": 5,
+      "featured": 0,
+      "newsletterPeriods": {
+        "1256": [
+          {
+            "periodNumber": 2,
+            "period": "WEEK",
+            "year": 2026
+          }
+        ]
+      },
+      "fffLibrary": "ACCEPTED",
+      "countLikes": 2,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-11 14:55:01",
+      "publishedAt": "2026-01-03 05:15:00",
+      "updatedAt": "2026-01-05 12:45:19",
+      "url": "la-police-economique-et-les-tribunaux-de-lentreprise-un-role-necessaire",
+      "main_media": {
+        "id": 52725,
+        "yPos": 0,
+        "yHeight": 88,
+        "path": "63e6942f6b94e2d3f101c1b69b96fa743263d4d2.jpeg",
+        "webPath": "storage/uploads/medias/63e6942f6b94e2d3f101c1b69b96fa743263d4d2.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52725/63e6942f6b94e2d3f101c1b69b96fa743263d4d2.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52725/REDUCED-63e6942f6b94e2d3f101c1b69b96fa743263d4d2.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/52725/CROPPED-63e6942f6b94e2d3f101c1b69b96fa743263d4d2.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Alexandra",
+          "lastName": "Stevens",
+          "id": 462791,
+          "avatar": "storage/media/IMAGE/31337/AVATAR_fb0eff19dfe2bb12259f76ad28c2e2f63550a227.jpeg",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31337/AVATAR_fb0eff19dfe2bb12259f76ad28c2e2f63550a227.jpeg",
+          "url": "alexandra-stevens",
+          "creator": {
+            "id": 44744,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 17698
+              },
+              {
+                "id": 20916
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 1360
+          },
+          "signature": {
+            "title": "Alexandra Stevens",
+            "head": "Assistante de Direction @ OECCBB"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Dejan",
+          "lastName": "Savatic",
+          "id": 42769,
+          "avatar": "storage/media/IMAGE/52726/AVATAR_3739137c7b0240c08c38f812beed3396dcc48593.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52726/AVATAR_3739137c7b0240c08c38f812beed3396dcc48593.png",
+          "url": "dejan-savatic",
+          "authorDetails": {
+            "id": 1739
+          },
+          "signature": {
+            "title": "Dejan Savatic",
+            "head": "Pr\u00e9sident @ Tribunal de l\u0027entreprise Hainaut"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        },
+        {
+          "firstName": "Jean-Philippe",
+          "lastName": "LEBEAU",
+          "id": 470772,
+          "avatar": "storage/media/IMAGE/52727/AVATAR_d69de446baffa261fbc5c107ab8c6ea389e075c9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/52727/AVATAR_d69de446baffa261fbc5c107ab8c6ea389e075c9.png",
+          "url": "jean-philippe-lebeau",
+          "authorDetails": {
+            "id": 1740
+          },
+          "signature": {
+            "title": "Jean-Philippe LEBEAU",
+            "head": "Magistrat "
+          },
+          "enableAvatar": true,
+          "priority": 2
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 13,
+        "nameFr": "Droit"
+      },
+      "organization": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevet\u00e9s de Belgique - Soci\u00e9t\u00e9 Royale",
+        "abbreviation": "OECCBB",
+        "avatarWebPath": "storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png",
+        "url": "ordre-des-experts-comptables-et-comptables-brevet-s-de-belgique-soci-t-royale"
+      },
+      "social": {
+        "isLiked": 1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29631,
+      "title": "L\u2019art de n\u00e9gocier avec vos fournisseurs ou comment am\u00e9liorer la rentabilit\u00e9 de vos affaires.",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 8,
+      "relatedArticles": {
+        "nl": {
+          "id": 29632,
+          "url": "de-kunst-van-het-onderhandelen-met-uw-leveranciers-of-hoe-de-winstgevendheid-van-uw-bedrijf-te-verbeteren."
+        }
+      },
+      "relevance": 5,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 1,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2026-01-02 11:28:42",
+      "publishedAt": "2026-01-03 05:10:00",
+      "updatedAt": "2026-01-05 12:50:42",
+      "url": "lart-de-negocier-avec-vos-fournisseurs-ou-comment-ameliorer-la-rentabilite-de-vos-affaires.",
+      "main_media": {
+        "id": 53042,
+        "yPos": 0,
+        "yHeight": 83,
+        "path": "86137abeceb42e4ad0f37fdde08149ce2897d311.jpeg",
+        "webPath": "storage/uploads/medias/86137abeceb42e4ad0f37fdde08149ce2897d311.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53042/86137abeceb42e4ad0f37fdde08149ce2897d311.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53042/REDUCED-86137abeceb42e4ad0f37fdde08149ce2897d311.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53042/CROPPED-86137abeceb42e4ad0f37fdde08149ce2897d311.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Aslam",
+          "lastName": "Bakkali",
+          "id": 483498,
+          "avatar": "storage/media/IMAGE/41106/AVATAR_3b107e6e4e959f11852f79559284d528f0f87ff1.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/41106/AVATAR_3b107e6e4e959f11852f79559284d528f0f87ff1.png",
+          "url": "aslam-bakkali",
+          "creator": {
+            "id": 8650,
+            "organizations": [
+              {
+                "id": 9
+              },
+              {
+                "id": 76
+              },
+              {
+                "id": 1256
+              },
+              {
+                "id": 4
+              },
+              {
+                "id": 4442
+              },
+              {
+                "id": 1815
+              },
+              {
+                "id": 9921
+              },
+              {
+                "id": 83
+              },
+              {
+                "id": 17828
+              },
+              {
+                "id": 10771
+              },
+              {
+                "id": 20916
+              },
+              {
+                "id": 22149
+              },
+              {
+                "id": 22305
+              }
+            ]
+          },
+          "authorDetails": {
+            "id": 1453
+          },
+          "signature": {
+            "title": "Aslam Bakkali",
+            "head": "Founding Partners @ Business Doctors Belux"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 115,
+        "nameFr": "Paroles d\u2019expert",
+        "colorCode": "#007ba7"
+      },
+      "category": {
+        "colorCode": "#8fbe45",
+        "id": 12,
+        "nameFr": "Strat\u00e9gie, Marketing \u0026 Communication"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": 1,
+        "isFavorite": 0
+      }
+    },
+    {
+      "id": 29622,
+      "title": "\u200bWallonie: de l\u2019Exposition universelle de Charleroi en 1911 aux licornes",
+      "language": "fr",
+      "isPrivate": false,
+      "isExternal": false,
+      "externalUrl": "",
+      "csScope": ["PUBLIC"],
+      "readTime": 3,
+      "relevance": 4,
+      "featured": 0,
+      "fffLibrary": "",
+      "countLikes": 1,
+      "countDislikes": 0,
+      "countComments": 0,
+      "createdAt": "2025-12-31 17:58:19",
+      "publishedAt": "2026-01-03 05:10:00",
+      "updatedAt": "2026-01-05 12:53:28",
+      "url": "wallonie-de-lexposition-universelle-de-charleroi-en-1911-aux-licornes",
+      "main_media": {
+        "id": 53032,
+        "yPos": 7,
+        "yHeight": 37,
+        "path": "6b14445733190f32b5d392cc678ad7b2b3863747.jpeg",
+        "webPath": "storage/uploads/medias/6b14445733190f32b5d392cc678ad7b2b3863747.jpeg",
+        "fullMediaUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/53032/6b14445733190f32b5d392cc678ad7b2b3863747.jpeg",
+        "fullReducedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53032/REDUCED-6b14445733190f32b5d392cc678ad7b2b3863747.jpeg",
+        "fullCroppedWebPath": "https://s3.tamtam.pro/production/storage/media/IMAGE/53032/CROPPED-6b14445733190f32b5d392cc678ad7b2b3863747.jpeg"
+      },
+      "author": [
+        {
+          "firstName": "Emmanuel",
+          "lastName": "Degr\u00e8ve",
+          "id": 8650,
+          "avatar": "storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/31/AVATAR_a838aa75f6239ff4efb921e6dde7adbc3dd7d3d9.png",
+          "url": "emmanuel-degreve",
+          "creator": {
+            "id": 71367,
+            "organizations": []
+          },
+          "authorDetails": {
+            "id": 25
+          },
+          "signature": {
+            "title": "Emmanuel Degr\u00e8ve",
+            "head": "Pr\u00e9sident de la Fondation Forum For the Future"
+          },
+          "enableAvatar": false,
+          "priority": 0
+        },
+        {
+          "firstName": "Bruno",
+          "lastName": "Colmant",
+          "id": 24534,
+          "avatar": "storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/8895/AVATAR_4a357915e27a8d736ea403a65e9650398b5c1bee.png",
+          "url": "bruno-colmant",
+          "authorDetails": {
+            "id": 129
+          },
+          "signature": {
+            "title": "Bruno Colmant",
+            "head": "Professeur, Membre de l\u0027Acad\u00e9mie Royale"
+          },
+          "enableAvatar": true,
+          "priority": 1
+        }
+      ],
+      "type": {
+        "id": 12,
+        "nameFr": "D\u00e9bat",
+        "colorCode": "#5cc6f0"
+      },
+      "category": {
+        "colorCode": "#faba09",
+        "id": 6,
+        "nameFr": "Politique et \u00e9conomie"
+      },
+      "organization": {
+        "id": 9,
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "avatarWebPath": "storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "avatarUrl": "https://s3.tamtam.pro/production/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png",
+        "url": "forum-for-the-future",
+        "hasFiduciariesAdmin": true
+      },
+      "social": {
+        "isLiked": 1,
+        "isFavorite": 0
+      }
+    }
+  ],
+  "nbResult": 11832,
+  "result": "OK",
+  "statusCode": 200,
+  "type": "success_get",
+  "title": "Data returned successfully"
+}

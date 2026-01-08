@@ -1,4 +1,4 @@
-import "./UaButton.css";
+import styles from "./UaButton.module.scss";
 
 export interface ButtonProps {
   /** Is this the principal call to action on the page? */
@@ -21,15 +21,11 @@ export const UaButton = ({
   label,
   ...props
 }: ButtonProps) => {
-  const mode = primary
-    ? "storybook-button--primary"
-    : "storybook-button--secondary";
+  const mode = primary ? styles.primary : styles.secondary;
   return (
     <button
       type="button"
-      className={["storybook-button", `storybook-button--${size}`, mode].join(
-        " "
-      )}
+      className={[styles.button, styles[`button--${size}`], mode].join(" ")}
       style={{ backgroundColor }}
       {...props}
     >

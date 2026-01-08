@@ -1,0 +1,64 @@
+.avatarContainer {
+  display: flex;
+  gap: 5px;
+}
+.avatar_bg {
+  background: linear-gradient(to bottom, #18a0fb, #06d9b1);
+  border-radius: 50%;
+  padding: 2px;
+  margin-right: 10px;
+}
+.avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background-color: #fff;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  &_nomargin {
+    margin-right: 0;
+  }
+
+  &_large {
+    width: 46px;
+    height: 46px;
+  }
+}
+
+.avatarSvg {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.emptyAvatar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  background-color: #6d7f92;
+}
+
+.avatarInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.avatarName {
+  font-size: 12px;
+  line-height: 14px;
+  color: #3c4e64;
+  margin-bottom: 2px;
+}
+
+.avatarSignature {
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 12px;
+  color: #6d7f92;
+}

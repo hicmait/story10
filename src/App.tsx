@@ -4,20 +4,20 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 // @ts-ignore
-import { UaButton } from "../dist/main";
-import "../dist/main.css";
+// import { UaButton } from "../dist/main";
+// import "../dist/main.css";
 
 function App() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <UaButton
+      {/* <UaButton
         primary
         label="Test"
         size="large"
         onClick={() => alert("click")}
-      />
+      /> */}
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
