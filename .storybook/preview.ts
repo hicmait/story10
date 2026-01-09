@@ -10,6 +10,12 @@ const preview: Preview = {
         date: /Date$/i,
       },
     },
+    backgrounds: {
+      options: {
+        dark: { name: "Dark", value: "#333" },
+        light: { name: "Light", value: "#f3f3f3" },
+      },
+    },
 
     a11y: {
       // 'todo' - show a11y violations in the test UI only
