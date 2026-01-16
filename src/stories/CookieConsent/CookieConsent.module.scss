@@ -1,0 +1,195 @@
+.container {
+  position: fixed;
+  z-index: 9999;
+  bottom: 24px;
+  left: 24px;
+  width: 500px;
+  max-width: 90%;
+  padding: 18px;
+  border-radius: 9px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 5px rgba(41, 57, 77, 0.1);
+
+  // transition: all 1s;
+  font-family: Roboto;
+
+  &_active {
+    width: 800px;
+  }
+  .title {
+    font-weight: 500;
+    color: #29394d;
+    font-size: 1.2rem;
+  }
+
+  .text {
+    font-size: 14px;
+    margin: 1rem 0;
+    color: #8d8d8d;
+    max-height: 300px;
+    overflow: scroll;
+
+    p {
+      text-align: left;
+    }
+  }
+
+  .info {
+    display: none;
+    transition: all 1s;
+    margin: 1.5rem 0 1rem;
+    &_active {
+      display: block;
+    }
+    .cookiesDetails {
+      overflow: scroll;
+      max-height: 400px;
+      .section {
+        p {
+          text-align: left;
+          margin: 0;
+        }
+        &_header {
+          position: relative;
+          padding: 1rem 1.5rem;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          h2 {
+            font-size: 1.125rem;
+            font-weight: 500;
+            color: #29394d;
+          }
+          .disable {
+            position: absolute;
+            height: 100%;
+            width: 100px;
+            top: 0;
+            right: 0;
+            background-color: #ffffff8d;
+          }
+        }
+        .description {
+          font-size: 0.875rem;
+          line-height: 1.25rem;
+          padding: 0rem 1.5rem;
+        }
+      }
+    }
+  }
+  .actions {
+    display: flex;
+    align-items: center;
+  }
+
+  .button {
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #18a0fb;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    font-family: Roboto;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #18a0fb;
+  }
+
+  .buttonInfo {
+    padding: 0.5rem 1.5rem;
+    color: #8d8d8d;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    font-family: Roboto;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+    background: #f8f9fa;
+    border: 1px solid #b2bcc6;
+    min-width: 160px;
+  }
+}
+
+.detail_box {
+  margin: 10px 0 20px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  background: rgb(255, 255, 255);
+
+  li {
+    padding: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.detail_title {
+  font-weight: 500;
+  color: #29394d;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+
+  img {
+    margin-right: 10px;
+  }
+}
+
+.detail_text {
+  font-size: 14px;
+  text-align: left;
+  color: #8d8d8d;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    left: 2%;
+    bottom: 140px;
+    max-width: 96%;
+
+    .text {
+      height: 100px;
+      overflow: scroll;
+    }
+
+    .info {
+      .cookiesDetails {
+        max-height: 200px;
+      }
+    }
+
+    .button,
+    .buttonInfo {
+      padding: 0.5rem;
+    }
+  }
+}
+@media screen and (max-height: 600px) {
+  .container {
+    .text {
+      max-height: 120px;
+      overflow: scroll;
+    }
+
+    .info {
+      .cookiesDetails {
+        max-height: 98px;
+      }
+    }
+
+    .button,
+    .buttonInfo {
+      padding: 0.5rem;
+    }
+  }
+}

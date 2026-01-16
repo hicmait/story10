@@ -1,0 +1,143 @@
+import classNames from "classnames";
+import { Component } from "react";
+
+import { addLandaSize } from "../../utils";
+
+import styles from "./FooterUA.module.scss";
+
+export class FooterUA extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  componentDidMount() {}
+
+  componentDidUpdate(prevProps) {}
+
+  render() {
+    const {
+      navigateTo,
+      primaryLogo,
+      secondaryLogo,
+      firstList,
+      secondList,
+      thirdList,
+      fourthList,
+    } = this.props;
+
+    return (
+      <div className={styles.footer}>
+        <div className={classNames(styles.content, "grid-x")}>
+          <div
+            className={classNames(
+              styles.logos,
+              "cell small-12 medium-4 large-3"
+            )}
+          >
+            {primaryLogo && (
+              <div
+                className={styles.uaLogo}
+                style={{
+                  backgroundImage: `url(${primaryLogo})`,
+                }}
+              ></div>
+            )}
+
+            {secondaryLogo && (
+              <div
+                className={
+                  primaryLogo ? styles.communityLogo : styles.communityLogoLarge
+                }
+                style={{
+                  backgroundImage: `url(${secondaryLogo})`,
+                }}
+              ></div>
+            )}
+          </div>
+          <div className="grid-x cell small-12 medium-8 large-9">
+            {firstList && (
+              <div
+                className={classNames(
+                  styles.section,
+                  fourthList
+                    ? "cell small-12 medium-6 large-3"
+                    : "cell small-12 medium-6 large-4"
+                )}
+              >
+                <ul>
+                  {firstList.map((el, idx) => (
+                    <li key={`ft-${idx}`} onClick={() => navigateTo(el.url)}>
+                      <div className={styles.block}></div>
+                      <span>{el.label}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {secondList && (
+              <div
+                className={classNames(
+                  styles.section,
+                  fourthList
+                    ? "cell small-12 medium-6 large-3"
+                    : "cell small-12 medium-6 large-4"
+                )}
+              >
+                <ul>
+                  {secondList.map((el, idx) => (
+                    <li key={`sc-${idx}`} onClick={() => navigateTo(el.url)}>
+                      <div className={styles.block}></div>
+                      <span>{el.label}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {thirdList && (
+              <div
+                className={classNames(
+                  styles.section,
+                  fourthList
+                    ? "cell small-12 medium-6 large-3"
+                    : "cell small-12 medium-6 large-4"
+                )}
+              >
+                <ul>
+                  {thirdList.map((el, idx) => (
+                    <li key={`th-${idx}`} onClick={() => navigateTo(el.url)}>
+                      <div className={styles.block}></div>
+                      <span>{el.label}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {fourthList && (
+              <div
+                className={classNames(
+                  styles.section,
+                  fourthList
+                    ? "cell small-12 medium-6 large-3"
+                    : "cell small-12 medium-6 large-4"
+                )}
+              >
+                <ul>
+                  {fourthList.map((el, idx) => (
+                    <li key={`fr-${idx}`} onClick={() => navigateTo(el.url)}>
+                      <div className={styles.block}></div>
+                      <span>{el.label}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        </div>
+        <div className={styles.copyright}>
+          © Copyright -{new Date().getFullYear()} Tamtam International
+        </div>
+      </div>
+    );
+  }
+}

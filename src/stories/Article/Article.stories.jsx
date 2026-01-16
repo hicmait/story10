@@ -33,7 +33,6 @@ export const DefaultSmall = {
     // navCommunityId:"",
     env: "production",
     onEdit: () => console.log("edit"),
-    expert: false,
   },
   decorators: [
     (Story) => (
