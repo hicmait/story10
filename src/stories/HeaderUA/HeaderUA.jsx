@@ -1,5 +1,4 @@
 import { Component } from "react";
-import AppendHead from "react-append-head";
 
 import styles from "./Header.module.scss";
 import MenuItem from "./MenuItem";

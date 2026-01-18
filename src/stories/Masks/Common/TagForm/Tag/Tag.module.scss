@@ -1,0 +1,74 @@
+.tag {
+  margin-right: 0.3rem;
+  margin-bottom: 0.4rem;
+  background: #6d7f921a;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  .tagName {
+    padding: 0.25rem 0;
+    padding-left: 0.43rem;
+    padding-right: 0.2rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 14px;
+    color: #29394d;
+    margin: 0;
+  }
+
+  .dismissContainer {
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+
+    &:hover {
+      background-color: #f8ab8c;
+      cursor: pointer;
+
+      .tagDismiss {
+        path {
+          stroke: #d90d0d;
+        }
+      }
+    }
+
+    .tagDismiss {
+      width: 0.5rem;
+      height: 0.9rem;
+      margin-top: 0.33rem;
+
+      path {
+        stroke: #6d7f92;
+      }
+    }
+  }
+}
+
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 40px;
+  bottom: unset;
+  background-color: #fff;
+  color: #103d47;
+  border-radius: 10px;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 999;
+  transform: translateX(-50%) translateY(-50%) !important;
+  width: 90%;
+  max-width: 1000px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  background-color: rgba(13, 112, 111, 0.5);
+}

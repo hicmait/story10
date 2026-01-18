@@ -61,7 +61,7 @@
     "foundation-sites": "^6.9.0",
     "moment": "^2.30.1",
     "moment-timezone": "^0.6.0",
-    "react-append-head": "^1.0.16",
+    "rc-picker": "^4.11.3",
     "react-code-input": "^3.10.1",
     "react-input-mask": "^2.0.4",
     "react-loading-skeleton": "^3.5.0",
@@ -72,8 +72,10 @@
     "react-spinners": "^0.17.0",
     "react-toastify": "^11.0.5",
     "react-tooltip": "^5.30.0",
+    "shave": "^5.1.0",
     "suneditor": "^2.47.8",
     "suneditor-react": "^3.6.1",
+    "swiper": "8",
     "zxcvbn": "^4.4.2"
   }
 }

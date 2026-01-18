@@ -1,0 +1,468 @@
+{
+  "cycles": [
+    {
+      "id": 112,
+      "uid": "89A74AFB-6DA5-489D-8DA4-67080E15377F",
+      "nameFr": "Cycle fiscalité et R&D",
+      "nameEn": null,
+      "nameNl": null,
+      "descriptionFr": null,
+      "descriptionEn": null,
+      "descriptionNl": null,
+      "type": 1,
+      "memberPrice": 79,
+      "nonMemberPrice": 199,
+      "monthlyMemberPrice": null,
+      "monthlyNonMemberPrice": null,
+      "status": 1,
+      "trainingMinutes": null,
+      "maxNumber": 500,
+      "pictureUrlFr": "/events-folder/client9/cycles0/_model/html/img/cycleFr_2024_01_18_07_42_37-original.jpg",
+      "pictureUrlNl": null,
+      "pictureUrlEn": null,
+      "contactFr": null,
+      "contactEn": null,
+      "contactNl": null,
+      "emailContactFr": null,
+      "emailContactEn": null,
+      "emailContactNl": null,
+      "phoneNumberContactFr": null,
+      "phoneNumberContactEn": null,
+      "phoneNumberContactNl": null,
+      "languages": "{\"Fr\":\"1\"}",
+      "isForcedDate": null,
+      "isReplayable": null,
+      "labelFr": null,
+      "labelNl": null,
+      "labelEn": null,
+      "isSeason": null,
+      "season": null,
+      "isPremium": null,
+      "isAgreedByItaa": 1,
+      "isAgreedByOBFG": null,
+      "projectedEventsCount": null,
+      "question": null,
+      "updatedAt": "2024-06-13 14:19:09",
+      "createdAt": "2024-01-18 06:42:38",
+      "clientId": null,
+      "startDateTime": "2024-06-17 12:15:00",
+      "endDateTime": "2024-06-24 13:15:00",
+      "endOfReplayForcedDateTime": null,
+      "labelType": null,
+      "eventsCount": 2,
+      "totalCertifiedHours": 2.5,
+      "client": 9,
+      "clientData": {
+        "id": "9",
+        "name": "Forum for the future",
+        "abbreviation": "F.F.F.",
+        "mediaId": "2174",
+        "avatarUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png"
+      },
+      "speakers-abstract": {
+        "count": 1,
+        "speakers": [
+          {
+            "id": "671",
+            "firstName": "Laura",
+            "lastName": "Dewez",
+            "pictureUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/37858/AVATAR_705f7606e80196881e07f11ed825fbaf55a792bf.png",
+            "userId": "9321",
+            "email": "laura.dewez@bdo.be",
+            "headlineFr": "Partner / Tax BDO",
+            "headlineEn": "",
+            "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+            "blogUrlPath": "/author/laura-dewez/9321",
+            "priority": "0",
+            "eventId": "1207",
+            "slots": [
+              {
+                "id": "3690",
+                "type": "1"
+              }
+            ]
+          }
+        ]
+      },
+      "dateEndOfReplay": "2024-10-18 11:14:29",
+      "eventCycles": [
+        {
+          "id": 2545,
+          "number": 1207,
+          "cycle": 112,
+          "isCyclePremium": false,
+          "isCycleSeason": false,
+          "event": 1207,
+          "eventsAbstract": {
+            "id": 1207,
+            "urlBannerFr": "/eventsFolder/client9/event1207/_model/html/img/bannerFr_2024_01_18_07_45_10-original.jpg",
+            "urlBannerNl": "",
+            "urlBannerEn": "",
+            "descriptionFr": "",
+            "descriptionNl": "",
+            "descriptionEn": "",
+            "nameFr": "Cycle fiscalité et R&D | Comment les incitants fiscaux peuvent-ils booster votre R&D ? (Partie 1)",
+            "nameNl": "",
+            "nameEn": "",
+            "startDateTime": "2024-06-17 12:15:00",
+            "endDateTime": "2024-06-17 13:15:00",
+            "speakers": [
+              {
+                "id": "671",
+                "firstName": "Laura",
+                "lastName": "Dewez",
+                "pictureUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/37858/AVATAR_705f7606e80196881e07f11ed825fbaf55a792bf.png",
+                "userId": "9321",
+                "email": "laura.dewez@bdo.be",
+                "headlineFr": "Partner / Tax BDO",
+                "headlineEn": "",
+                "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+                "blogUrlPath": "/author/laura-dewez/9321",
+                "slots": [
+                  {
+                    "id": "3690",
+                    "type": "1"
+                  }
+                ]
+              }
+            ],
+            "accreditationHours": 1,
+            "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+            "memberPrice": 49,
+            "nonMemberPrice": 69,
+            "isReplayable": 1,
+            "replayStatus": 1,
+            "status": 1,
+            "isCertificateNotIncluded": 0,
+            "isIncludedPremium": 0,
+            "isVirtual": 1,
+            "client": 9,
+            "eventDates": [],
+            "slotsCount": 1,
+            "eventCycles": [
+              {
+                "id": 2544,
+                "number": 1207,
+                "cycle": 97,
+                "isCyclePremium": false,
+                "isCycleSeason": true,
+                "event": 1207
+              },
+              {
+                "id": 2545,
+                "number": 1207,
+                "cycle": 112,
+                "isCyclePremium": false,
+                "isCycleSeason": false,
+                "event": 1207
+              }
+            ],
+            "slotReplayUrls": {
+              "webinarUrlEn": "https://webinar-1.staging.tamtam.pro/webinars/MugpppYgDkaf8Stmw",
+              "webinarReplayVideoEn": "",
+              "webinarReplayVideoFr": "",
+              "webinarReplayVideoNl": ""
+            }
+          }
+        },
+        {
+          "id": 2547,
+          "number": 1208,
+          "cycle": 112,
+          "isCyclePremium": false,
+          "isCycleSeason": false,
+          "event": 1208,
+          "eventsAbstract": {
+            "id": 1208,
+            "urlBannerFr": "/eventsFolder/client9/event1208/_model/html/img/bannerFr_2024_01_18_07_47_08-original.jpg",
+            "urlBannerNl": "",
+            "urlBannerEn": "",
+            "descriptionFr": "",
+            "descriptionNl": "",
+            "descriptionEn": "",
+            "nameFr": "Cycle fiscalité et R&D | Comment les incitants fiscaux peuvent-ils booster votre R&D ? (Partie 2)",
+            "nameNl": "",
+            "nameEn": "",
+            "startDateTime": "2024-06-24 12:15:00",
+            "endDateTime": "2024-06-24 13:15:00",
+            "speakers": [
+              {
+                "id": "671",
+                "firstName": "Laura",
+                "lastName": "Dewez",
+                "pictureUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/37858/AVATAR_705f7606e80196881e07f11ed825fbaf55a792bf.png",
+                "userId": "9321",
+                "email": "laura.dewez@bdo.be",
+                "headlineFr": "Partner / Tax BDO",
+                "headlineEn": "",
+                "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+                "blogUrlPath": "/author/laura-dewez/9321",
+                "slots": [
+                  {
+                    "id": "3691",
+                    "type": "1"
+                  }
+                ]
+              }
+            ],
+            "accreditationHours": 1,
+            "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+            "memberPrice": 49,
+            "nonMemberPrice": 69,
+            "isReplayable": 1,
+            "replayStatus": 1,
+            "status": 1,
+            "isCertificateNotIncluded": 0,
+            "isIncludedPremium": 1,
+            "isVirtual": 1,
+            "client": 9,
+            "eventDates": [],
+            "slotsCount": 1,
+            "eventCycles": [
+              {
+                "id": 2644,
+                "number": 0,
+                "cycle": 56,
+                "isCyclePremium": true,
+                "isCycleSeason": false,
+                "event": 1208
+              },
+              {
+                "id": 2546,
+                "number": 1,
+                "cycle": 97,
+                "isCyclePremium": false,
+                "isCycleSeason": true,
+                "event": 1208
+              },
+              {
+                "id": 2547,
+                "number": 1208,
+                "cycle": 112,
+                "isCyclePremium": false,
+                "isCycleSeason": false,
+                "event": 1208
+              }
+            ],
+            "slotReplayUrls": {
+              "webinarUrlEn": "https://webinar-1.staging.tamtam.pro/webinars/36YYt7DSBHLzwGKnp",
+              "webinarReplayVideoEn": "",
+              "webinarReplayVideoFr": "",
+              "webinarReplayVideoNl": ""
+            }
+          }
+        }
+      ],
+      "allEventsPrices": {
+        "member": 98,
+        "nonMember": 138
+      }
+    },
+    {
+      "id": 117,
+      "uid": "9AA2A0A4-F022-445B-8E3F-D24616C1E6D4",
+      "nameFr": "Pratiques de Stage des 5 et 9 septembre 2024 : Audit fiscal des comptes annuels",
+      "nameEn": null,
+      "nameNl": null,
+      "descriptionFr": "**2 séances indissociables sous forme de webinaires en direct via ZOOM **\r\n\r\nEN PRATIQUE : \r\nCLOTURE des inscriptions à 17h !\r\nAprès 17h, vous ne recevrez pas le lien pour vous connecter au webinaire du soir. \r\nVous aurez cependant la possibilité de visionner le replay dès le lendemain.\r\n\r\n1/ La veille de la séance ou au plus tard, le jour même avant midi, vous recevrez un mail reprenant :\r\n\r\nle lien pour vous connecter au webinaire via Zoom le jour J\r\nles modalités d'octroi de votre attestation de présence\r\nvotre documentation\r\nAttention : vérifiez dans vos spams\r\n\r\n2/ Le lendemain, vous recevrez un mail avec le lien afin de (re)visionner la séance.\r\nLe lien est valable durant 15 jours sans prolongation possible.\r\nAttention : le replay ne donne pas lieu à la délivrance d'une attestation.",
+      "descriptionEn": null,
+      "descriptionNl": null,
+      "type": 3,
+      "memberPrice": 99,
+      "nonMemberPrice": 132,
+      "monthlyMemberPrice": null,
+      "monthlyNonMemberPrice": null,
+      "status": 1,
+      "trainingMinutes": null,
+      "maxNumber": 500,
+      "pictureUrlFr": "/events-folder/client1256/cycles117/_model/html/img/cycleFr_2024_03_18_12_26_48-original.jpg",
+      "pictureUrlNl": null,
+      "pictureUrlEn": null,
+      "contactFr": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+      "contactEn": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+      "contactNl": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+      "emailContactFr": "formation@oeccbb.be",
+      "emailContactEn": "formation@oeccbb.be",
+      "emailContactNl": "formation@oeccbb.be",
+      "phoneNumberContactFr": "+3223430212",
+      "phoneNumberContactEn": null,
+      "phoneNumberContactNl": null,
+      "languages": "{\"Fr\":\"1\"}",
+      "isForcedDate": 1,
+      "isReplayable": 1,
+      "labelFr": null,
+      "labelNl": null,
+      "labelEn": null,
+      "isSeason": null,
+      "season": "PDS",
+      "isPremium": null,
+      "isAgreedByItaa": 1,
+      "isAgreedByOBFG": null,
+      "projectedEventsCount": null,
+      "question": null,
+      "updatedAt": "2024-04-02 09:30:51",
+      "createdAt": "2024-02-20 11:12:31",
+      "clientId": null,
+      "startDateTime": "2024-09-05 18:00:00",
+      "endDateTime": "2024-09-09 21:00:00",
+      "endOfReplayForcedDateTime": "2024-09-24 23:55:00",
+      "labelType": null,
+      "eventCycles": [
+        {
+          "id": 2690,
+          "number": 1614,
+          "cycle": 117,
+          "isCyclePremium": false,
+          "isCycleSeason": false,
+          "event": 1614
+        },
+        {
+          "id": 2691,
+          "number": 1615,
+          "cycle": 117,
+          "isCyclePremium": false,
+          "isCycleSeason": false,
+          "event": 1615
+        }
+      ],
+      "eventsCount": 2,
+      "totalCertifiedHours": 2.5,
+      "client": 1256,
+      "dateEndOfReplay": "2024-09-24 23:55:00",
+      "clientData": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevetés de Belgique - Société Royale",
+        "abbreviation": "Oeccbb",
+        "avatarUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png"
+      },
+      "speakers-abstract": {
+        "count": 1,
+        "speakers": [
+          {
+            "id": "119",
+            "firstName": "Vincent",
+            "lastName": "DELVAUX",
+            "pictureUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/8340/AVATAR_7c3b0822fbbef8c41871a983b576358b904acd6a.png",
+            "userId": "7714",
+            "email": "v.delvaux@skynet.be",
+            "headlineFr": "Expert-Comptable certifié",
+            "headlineEn": "",
+            "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+            "blogUrlPath": "/author/vincent-delvaux/7714",
+            "priority": "0",
+            "eventId": "1614",
+            "slots": [
+              {
+                "id": "4065",
+                "type": "1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "uid": "71A4228B-74D5-4BA0-9C5A-FDC2243E83AF",
+      "nameFr": "Pratiques de Stage des 11 et 12 septembre 2024 : Comptabilité générale et comptes annuels",
+      "nameEn": null,
+      "nameNl": null,
+      "descriptionFr": "**2 séances indissociables sous forme de webinaires en direct via ZOOM**\r\n\r\nCLOTURE des inscriptions à 17h !\r\nAprès 17h, vous ne recevrez pas le lien pour vous connecter au webinaire du soir. \r\nVous aurez cependant la possibilité de visionner le replay dès le lendemain.\r\n\r\n1/ La veille de la séance ou au plus tard, le jour même avant midi, vous recevrez un mail reprenant :\r\n\r\nle lien pour vous connecter au webinaire via Zoom le jour J\r\nles modalités d'octroi de votre attestation de présence\r\nvotre documentation\r\n\r\nAttention : vérifiez dans vos spams\r\n\r\n2/ Le lendemain, vous recevrez un mail avec le lien afin de (re)visionner la séance.\r\nLe lien est valable durant 15 jours sans prolongation possible.\r\nAttention : le replay ne donne pas lieu à la délivrance d'une attestation.",
+      "descriptionEn": null,
+      "descriptionNl": null,
+      "type": 2,
+      "memberPrice": 99,
+      "nonMemberPrice": 132,
+      "monthlyMemberPrice": null,
+      "monthlyNonMemberPrice": null,
+      "status": 1,
+      "trainingMinutes": null,
+      "maxNumber": 500,
+      "pictureUrlFr": "/events-folder/client1256/cycles0/_model/html/img/cycleFr_2024_03_18_15_41_25-original.jpg",
+      "pictureUrlNl": null,
+      "pictureUrlEn": null,
+      "contactFr": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+      "contactEn": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+      "contactNl": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+      "emailContactFr": "formation@oeccbb.be",
+      "emailContactEn": "formation@oeccbb.be",
+      "emailContactNl": "formation@oeccbb.be",
+      "phoneNumberContactFr": "+3223430212",
+      "phoneNumberContactEn": null,
+      "phoneNumberContactNl": null,
+      "languages": "{\"Fr\":\"1\"}",
+      "isForcedDate": 1,
+      "isReplayable": 1,
+      "labelFr": null,
+      "labelNl": null,
+      "labelEn": null,
+      "isSeason": null,
+      "season": "PDS",
+      "isPremium": null,
+      "isAgreedByItaa": 1,
+      "isAgreedByOBFG": null,
+      "projectedEventsCount": null,
+      "question": null,
+      "updatedAt": "2024-04-02 09:32:01",
+      "createdAt": "2024-03-18 14:41:25",
+      "clientId": null,
+      "startDateTime": "2024-09-11 18:00:00",
+      "endDateTime": "2024-09-12 21:00:00",
+      "endOfReplayForcedDateTime": "2024-09-30 23:55:00",
+      "labelType": null,
+      "eventCycles": [
+        {
+          "id": 2721,
+          "number": 1654,
+          "cycle": 120,
+          "isCyclePremium": false,
+          "isCycleSeason": false,
+          "event": 1654
+        },
+        {
+          "id": 2722,
+          "number": 1655,
+          "cycle": 120,
+          "isCyclePremium": false,
+          "isCycleSeason": false,
+          "event": 1655
+        }
+      ],
+      "eventsCount": 2,
+      "totalCertifiedHours": 2.5,
+      "client": 1256,
+      "dateEndOfReplay": "2024-09-30 23:55:00",
+      "clientData": {
+        "id": 1256,
+        "name": "Ordre des Experts Comptables et Comptables Brevetés de Belgique - Société Royale",
+        "abbreviation": "Oeccbb",
+        "avatarUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png"
+      },
+      "speakers-abstract": {
+        "count": 1,
+        "speakers": [
+          {
+            "id": "1380",
+            "firstName": "Abdellah",
+            "lastName": "IDRISSI SERGHINI",
+            "pictureUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/40174/AVATAR_73e9a08c01063840d7395dcbf0afdc6d10e032cf.png",
+            "userId": "34296",
+            "email": "ase@lsaudit.eu",
+            "headlineFr": "{\"title\":\"Reviseur d'entreprise\",\"signature\":\"Reviseur d'entreprise @ L&S \"}",
+            "headlineEn": "Reviseur d'entreprise",
+            "headlineNl": "{\"title\":\"Reviseur d'entreprise \",\"signature\":\"Reviseur d'entreprise @ L&S \"}",
+            "blogUrlPath": "/author/abdellah-idrissi-serghini/34296",
+            "priority": "0",
+            "eventId": "1654",
+            "slots": [
+              {
+                "id": "4138",
+                "type": "1"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

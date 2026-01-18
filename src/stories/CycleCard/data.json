@@ -1,0 +1,710 @@
+[
+  {
+    "id": 112,
+    "uid": "89A74AFB-6DA5-489D-8DA4-67080E15377F",
+    "nameFr": "Cycle fiscalité et R&D",
+    "nameEn": null,
+    "nameNl": null,
+    "descriptionFr": null,
+    "descriptionEn": null,
+    "descriptionNl": null,
+    "type": 1,
+    "memberPrice": 79,
+    "nonMemberPrice": 199,
+    "monthlyMemberPrice": null,
+    "monthlyNonMemberPrice": null,
+    "status": 1,
+    "trainingMinutes": null,
+    "maxNumber": 500,
+    "pictureUrlFr": "/events-folder/client9/cycles0/_model/html/img/cycleFr_2024_01_18_07_42_37-original.jpg",
+    "pictureUrlNl": null,
+    "pictureUrlEn": null,
+    "contactFr": null,
+    "contactEn": null,
+    "contactNl": null,
+    "emailContactFr": null,
+    "emailContactEn": null,
+    "emailContactNl": null,
+    "phoneNumberContactFr": null,
+    "phoneNumberContactEn": null,
+    "phoneNumberContactNl": null,
+    "languages": "{\"Fr\":\"1\"}",
+    "isForcedDate": null,
+    "isReplayable": null,
+    "labelFr": null,
+    "labelNl": null,
+    "labelEn": null,
+    "isSeason": null,
+    "season": null,
+    "isPremium": null,
+    "isAgreedByItaa": 1,
+    "isAgreedByOBFG": null,
+    "projectedEventsCount": null,
+    "question": null,
+    "updatedAt": "2024-06-13 14:19:09",
+    "createdAt": "2024-01-18 06:42:38",
+    "clientId": null,
+    "startDateTime": "2024-06-17 12:15:00",
+    "endDateTime": "2024-06-24 13:15:00",
+    "endOfReplayForcedDateTime": null,
+    "labelType": null,
+    "eventsCount": 2,
+    "totalCertifiedHours": 2.5,
+    "client": 9,
+    "clientData": {
+      "id": "9",
+      "name": "Forum for the future",
+      "abbreviation": "F.F.F.",
+      "mediaId": "2174",
+      "avatarUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/2174/AVATAR_54cbd68e1ba9284a1e486bd5d8551259cd51d96e.png"
+    },
+    "speakers-abstract": {
+      "count": 1,
+      "speakers": [
+        {
+          "id": "671",
+          "firstName": "Laura",
+          "lastName": "Dewez",
+          "pictureUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/37858/AVATAR_705f7606e80196881e07f11ed825fbaf55a792bf.png",
+          "userId": "9321",
+          "email": "laura.dewez@bdo.be",
+          "headlineFr": "Partner / Tax BDO",
+          "headlineEn": "",
+          "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+          "blogUrlPath": "/author/laura-dewez/9321",
+          "priority": "0",
+          "eventId": "1207",
+          "slots": [
+            {
+              "id": "3690",
+              "type": "1"
+            }
+          ]
+        }
+      ]
+    },
+    "dateEndOfReplay": "2024-10-18 11:14:29",
+    "eventCycles": [
+      {
+        "id": 2545,
+        "number": 1207,
+        "cycle": 112,
+        "isCyclePremium": false,
+        "isCycleSeason": false,
+        "event": 1207,
+        "eventsAbstract": {
+          "id": 1207,
+          "urlBannerFr": "/eventsFolder/client9/event1207/_model/html/img/bannerFr_2024_01_18_07_45_10-original.jpg",
+          "urlBannerNl": "",
+          "urlBannerEn": "",
+          "descriptionFr": "",
+          "descriptionNl": "",
+          "descriptionEn": "",
+          "nameFr": "Cycle fiscalité et R&D | Comment les incitants fiscaux peuvent-ils booster votre R&D ? (Partie 1)",
+          "nameNl": "",
+          "nameEn": "",
+          "startDateTime": "2024-06-17 12:15:00",
+          "endDateTime": "2024-06-17 13:15:00",
+          "speakers": [
+            {
+              "id": "671",
+              "firstName": "Laura",
+              "lastName": "Dewez",
+              "pictureUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/37858/AVATAR_705f7606e80196881e07f11ed825fbaf55a792bf.png",
+              "userId": "9321",
+              "email": "laura.dewez@bdo.be",
+              "headlineFr": "Partner / Tax BDO",
+              "headlineEn": "",
+              "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+              "blogUrlPath": "/author/laura-dewez/9321",
+              "slots": [
+                {
+                  "id": "3690",
+                  "type": "1"
+                }
+              ]
+            }
+          ],
+          "accreditationHours": 1,
+          "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+          "memberPrice": 49,
+          "nonMemberPrice": 69,
+          "isReplayable": 1,
+          "replayStatus": 1,
+          "status": 1,
+          "isCertificateNotIncluded": 0,
+          "isIncludedPremium": 0,
+          "isVirtual": 1,
+          "client": 9,
+          "eventDates": [],
+          "slotsCount": 1,
+          "eventCycles": [
+            {
+              "id": 2544,
+              "number": 1207,
+              "cycle": 97,
+              "isCyclePremium": false,
+              "isCycleSeason": true,
+              "event": 1207
+            },
+            {
+              "id": 2545,
+              "number": 1207,
+              "cycle": 112,
+              "isCyclePremium": false,
+              "isCycleSeason": false,
+              "event": 1207
+            }
+          ],
+          "slotReplayUrls": {
+            "webinarUrlEn": "https://webinar-1.staging.tamtam.pro/webinars/MugpppYgDkaf8Stmw",
+            "webinarReplayVideoEn": "",
+            "webinarReplayVideoFr": "",
+            "webinarReplayVideoNl": ""
+          }
+        }
+      },
+      {
+        "id": 2547,
+        "number": 1208,
+        "cycle": 112,
+        "isCyclePremium": false,
+        "isCycleSeason": false,
+        "event": 1208,
+        "eventsAbstract": {
+          "id": 1208,
+          "urlBannerFr": "/eventsFolder/client9/event1208/_model/html/img/bannerFr_2024_01_18_07_47_08-original.jpg",
+          "urlBannerNl": "",
+          "urlBannerEn": "",
+          "descriptionFr": "",
+          "descriptionNl": "",
+          "descriptionEn": "",
+          "nameFr": "Cycle fiscalité et R&D | Comment les incitants fiscaux peuvent-ils booster votre R&D ? (Partie 2)",
+          "nameNl": "",
+          "nameEn": "",
+          "startDateTime": "2024-06-24 12:15:00",
+          "endDateTime": "2024-06-24 13:15:00",
+          "speakers": [
+            {
+              "id": "671",
+              "firstName": "Laura",
+              "lastName": "Dewez",
+              "pictureUrl": "https://s3.tamtam.pro/staging/storage/media/IMAGE/37858/AVATAR_705f7606e80196881e07f11ed825fbaf55a792bf.png",
+              "userId": "9321",
+              "email": "laura.dewez@bdo.be",
+              "headlineFr": "Partner / Tax BDO",
+              "headlineEn": "",
+              "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+              "blogUrlPath": "/author/laura-dewez/9321",
+              "slots": [
+                {
+                  "id": "3691",
+                  "type": "1"
+                }
+              ]
+            }
+          ],
+          "accreditationHours": 1,
+          "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+          "memberPrice": 49,
+          "nonMemberPrice": 69,
+          "isReplayable": 1,
+          "replayStatus": 1,
+          "status": 1,
+          "isCertificateNotIncluded": 0,
+          "isIncludedPremium": 1,
+          "isVirtual": 1,
+          "client": 9,
+          "eventDates": [],
+          "slotsCount": 1,
+          "eventCycles": [
+            {
+              "id": 2644,
+              "number": 0,
+              "cycle": 56,
+              "isCyclePremium": true,
+              "isCycleSeason": false,
+              "event": 1208
+            },
+            {
+              "id": 2546,
+              "number": 1,
+              "cycle": 97,
+              "isCyclePremium": false,
+              "isCycleSeason": true,
+              "event": 1208
+            },
+            {
+              "id": 2547,
+              "number": 1208,
+              "cycle": 112,
+              "isCyclePremium": false,
+              "isCycleSeason": false,
+              "event": 1208
+            }
+          ],
+          "slotReplayUrls": {
+            "webinarUrlEn": "https://webinar-1.staging.tamtam.pro/webinars/36YYt7DSBHLzwGKnp",
+            "webinarReplayVideoEn": "",
+            "webinarReplayVideoFr": "",
+            "webinarReplayVideoNl": ""
+          }
+        }
+      }
+    ],
+    "allEventsPrices": {
+      "member": 98,
+      "nonMember": 138
+    }
+  },
+  {
+    "id": 128,
+    "uid": "2511B5D2-3CE8-4B72-BD5C-DC4973F6FC1F",
+    "nameFr": "Pratiques de Stage des 24 et 31 octobre 2024 : TVA",
+    "nameEn": null,
+    "nameNl": null,
+    "descriptionFr": "2 séances indissociables – en présentiel",
+    "descriptionEn": null,
+    "descriptionNl": null,
+    "type": 2,
+    "memberPrice": 99,
+    "nonMemberPrice": 132,
+    "monthlyMemberPrice": null,
+    "monthlyNonMemberPrice": null,
+    "status": 1,
+    "trainingMinutes": null,
+    "maxNumber": 50,
+    "pictureUrlFr": "/events-folder/client1256/cycles0/_model/html/img/cycleFr_2024_03_26_10_57_34-original.png",
+    "pictureUrlNl": null,
+    "pictureUrlEn": null,
+    "contactFr": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+    "contactEn": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+    "contactNl": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+    "emailContactFr": "formation@oeccbb.be",
+    "emailContactEn": "formation@oeccbb.be",
+    "emailContactNl": "formation@oeccbb.be",
+    "phoneNumberContactFr": "+3223430212",
+    "phoneNumberContactEn": null,
+    "phoneNumberContactNl": null,
+    "languages": "{\"Fr\":\"1\"}",
+    "isForcedDate": 1,
+    "isReplayable": null,
+    "labelFr": null,
+    "labelNl": null,
+    "labelEn": null,
+    "isSeason": null,
+    "season": "PDS",
+    "isPremium": null,
+    "isAgreedByItaa": 1,
+    "isAgreedByOBFG": null,
+    "projectedEventsCount": null,
+    "question": null,
+    "updatedAt": "2024-04-02 09:37:57",
+    "createdAt": "2024-03-26 09:57:35",
+    "clientId": null,
+    "startDateTime": "2024-10-24 18:00:00",
+    "endDateTime": "2024-10-31 21:00:00",
+    "endOfReplayForcedDateTime": null,
+    "labelType": null,
+    "eventsCount": 2,
+    "totalCertifiedHours": 2.5,
+    "client": 1256,
+    "dateEndOfReplay": "2024-10-31 21:00:00",
+    "clientData": {
+      "id": "1256",
+      "name": "Ordre des Experts Comptables et Comptables Brevetés de Belgique - Société Royale",
+      "abbreviation": "Oeccbb",
+      "mediaId": "6348",
+      "avatarUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png"
+    },
+    "eventCycles": [
+      {
+        "id": 2740,
+        "number": 1719,
+        "cycle": 128,
+        "isCyclePremium": false,
+        "isCycleSeason": false,
+        "event": 1719,
+        "eventsAbstract": {
+          "id": 1719,
+          "urlBannerFr": "/eventsFolder/client1256/event1719/_model/html/img/bannerFr_2024_03_25_15_49_45-original.png",
+          "urlBannerNl": "",
+          "urlBannerEn": "",
+          "descriptionFr": "",
+          "descriptionNl": "",
+          "descriptionEn": "",
+          "nameFr": "Pratiques de Stage : TVA (séance 1/2)",
+          "nameNl": "",
+          "nameEn": "",
+          "startDateTime": "2024-10-24 18:00:00",
+          "endDateTime": "2024-10-24 21:00:00",
+          "speakers": [
+            {
+              "id": "1375",
+              "firstName": "Laurent",
+              "lastName": "Tainmont",
+              "pictureUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/40169/AVATAR_8397a6ca33d2369844904400c7c3add265646e19.png",
+              "userId": "482222",
+              "email": "lta@solislaw.eu",
+              "headlineFr": "{\"title\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\",\"signature\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\"}",
+              "headlineEn": "Avocat - Associé @ Solis Law Firm",
+              "headlineNl": "{\"title\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\",\"signature\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\"}",
+              "blogUrlPath": "/author/laurent-tainmont/482222",
+              "slots": [
+                {
+                  "id": "4228",
+                  "type": "1"
+                }
+              ]
+            }
+          ],
+          "accreditationHours": 3,
+          "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+          "memberPrice": 50,
+          "nonMemberPrice": 66,
+          "isReplayable": 1,
+          "replayStatus": 1,
+          "status": 1,
+          "isCertificateNotIncluded": 0,
+          "isIncludedPremium": 0,
+          "isVirtual": 0,
+          "client": 1256,
+          "eventDates": [],
+          "slotsCount": 1,
+          "eventCycles": [
+            {
+              "id": 2740,
+              "number": 1719,
+              "cycle": 128,
+              "isCyclePremium": false,
+              "isCycleSeason": false,
+              "event": 1719
+            },
+            {
+              "id": 2782,
+              "number": 1719,
+              "cycle": 133,
+              "isCyclePremium": false,
+              "isCycleSeason": true,
+              "event": 1719
+            }
+          ],
+          "slotReplayUrls": {
+            "webinarUrlEn": "",
+            "webinarReplayVideoEn": "",
+            "webinarReplayVideoFr": "",
+            "webinarReplayVideoNl": ""
+          }
+        }
+      },
+      {
+        "id": 2741,
+        "number": 1720,
+        "cycle": 128,
+        "isCyclePremium": false,
+        "isCycleSeason": false,
+        "event": 1720,
+        "eventsAbstract": {
+          "id": 1720,
+          "urlBannerFr": "/eventsFolder/client1256/event1720/_model/html/img/bannerFr_2024_03_25_15_52_15-original.png",
+          "urlBannerNl": "",
+          "urlBannerEn": "",
+          "descriptionFr": "",
+          "descriptionNl": "",
+          "descriptionEn": "",
+          "nameFr": "Pratiques de Stage : TVA (séance 2/2)",
+          "nameNl": "",
+          "nameEn": "",
+          "startDateTime": "2024-10-31 18:00:00",
+          "endDateTime": "2024-10-31 21:00:00",
+          "speakers": [
+            {
+              "id": "1375",
+              "firstName": "Laurent",
+              "lastName": "Tainmont",
+              "pictureUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/40169/AVATAR_8397a6ca33d2369844904400c7c3add265646e19.png",
+              "userId": "482222",
+              "email": "lta@solislaw.eu",
+              "headlineFr": "{\"title\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\",\"signature\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\"}",
+              "headlineEn": "Avocat - Associé @ Solis Law Firm",
+              "headlineNl": "{\"title\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\",\"signature\":\"Avocat - Associ\\u00e9 @ Solis Law Firm\"}",
+              "blogUrlPath": "/author/laurent-tainmont/482222",
+              "slots": [
+                {
+                  "id": "4229",
+                  "type": "1"
+                }
+              ]
+            }
+          ],
+          "accreditationHours": 3,
+          "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+          "memberPrice": 50,
+          "nonMemberPrice": 66,
+          "isReplayable": 1,
+          "replayStatus": 1,
+          "status": 1,
+          "isCertificateNotIncluded": 0,
+          "isIncludedPremium": 0,
+          "isVirtual": 0,
+          "client": 1256,
+          "eventDates": [],
+          "slotsCount": 1,
+          "eventCycles": [
+            {
+              "id": 2741,
+              "number": 1720,
+              "cycle": 128,
+              "isCyclePremium": false,
+              "isCycleSeason": false,
+              "event": 1720
+            },
+            {
+              "id": 2783,
+              "number": 1720,
+              "cycle": 133,
+              "isCyclePremium": false,
+              "isCycleSeason": true,
+              "event": 1720
+            }
+          ],
+          "slotReplayUrls": {
+            "webinarUrlEn": "",
+            "webinarReplayVideoEn": "",
+            "webinarReplayVideoFr": "",
+            "webinarReplayVideoNl": ""
+          }
+        }
+      }
+    ],
+    "allEventsPrices": {
+      "member": 100,
+      "nonMember": 132
+    }
+  },
+  {
+    "id": 127,
+    "uid": "78E33281-A365-42A4-B3FF-1F689BC8F99A",
+    "nameFr": "Pratiques de Stage des 22 octobre et 7 novembre 2024 : Successions",
+    "nameEn": null,
+    "nameNl": null,
+    "descriptionFr": "**2 séances indissociables sous forme de webinaires en direct via ZOOM **\r\n\r\nEN PRATIQUE\r\n\r\nCLOTURE des inscriptions à 17h !\r\nAprès 17h, vous ne recevrez pas le lien pour vous connecter au webinaire du soir. \r\nVous aurez cependant la possibilité de visionner le replay dès le lendemain.\r\n\r\n1/ La veille de la séance ou au plus tard, le jour même avant midi, vous recevrez un mail reprenant :\r\n\r\nle lien pour vous connecter au webinaire via Zoom le jour J\r\nles modalités d'octroi de votre attestation de présence\r\nvotre documentation\r\nAttention : vérifiez dans vos spams\r\n\r\n2/ Le lendemain, vous recevrez un mail avec le lien afin de (re)visionner la séance.\r\nLe lien est valable durant 15 jours sans prolongation possible.\r\nAttention : le replay ne donne pas lieu à la délivrance d'une attestation.",
+    "descriptionEn": null,
+    "descriptionNl": null,
+    "type": 3,
+    "memberPrice": 99,
+    "nonMemberPrice": 132,
+    "monthlyMemberPrice": null,
+    "monthlyNonMemberPrice": null,
+    "status": 1,
+    "trainingMinutes": null,
+    "maxNumber": 500,
+    "pictureUrlFr": "/events-folder/client1256/cycles127/_model/html/img/cycleFr_2024_03_26_10_48_03-original.png",
+    "pictureUrlNl": null,
+    "pictureUrlEn": null,
+    "contactFr": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+    "contactEn": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+    "contactNl": "OECCBB - Ordre des Experts-comptables et comptables agréées de Belgique",
+    "emailContactFr": "formation@oeccbb.be",
+    "emailContactEn": "formation@oeccbb.be",
+    "emailContactNl": "formation@oeccbb.be",
+    "phoneNumberContactFr": "+3223430212",
+    "phoneNumberContactEn": null,
+    "phoneNumberContactNl": null,
+    "languages": "{\"Fr\":\"1\"}",
+    "isForcedDate": 1,
+    "isReplayable": 1,
+    "labelFr": null,
+    "labelNl": null,
+    "labelEn": null,
+    "isSeason": null,
+    "season": "PDS",
+    "isPremium": null,
+    "isAgreedByItaa": 1,
+    "isAgreedByOBFG": null,
+    "projectedEventsCount": null,
+    "question": null,
+    "updatedAt": "2024-04-02 09:37:09",
+    "createdAt": "2024-03-26 09:45:41",
+    "clientId": null,
+    "startDateTime": "2024-10-22 18:00:00",
+    "endDateTime": "2024-11-07 21:00:00",
+    "endOfReplayForcedDateTime": "2024-11-26 23:55:00",
+    "labelType": null,
+    "eventsCount": 2,
+    "totalCertifiedHours": 2.5,
+    "client": 1256,
+    "dateEndOfReplay": "2024-11-26 23:55:00",
+    "clientData": {
+      "id": "1256",
+      "name": "Ordre des Experts Comptables et Comptables Brevetés de Belgique - Société Royale",
+      "abbreviation": "Oeccbb",
+      "mediaId": "6348",
+      "avatarUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/6348/AVATAR_e4fb37d14607091b2d1057ac4aa3b56c60e12f77.png"
+    },
+    "eventCycles": [
+      {
+        "id": 2738,
+        "number": 1717,
+        "cycle": 127,
+        "isCyclePremium": false,
+        "isCycleSeason": false,
+        "event": 1717,
+        "eventsAbstract": {
+          "id": 1717,
+          "urlBannerFr": "/eventsFolder/client1256/event1717/_model/html/img/bannerFr_2024_03_25_15_44_27-original.png",
+          "urlBannerNl": "",
+          "urlBannerEn": "",
+          "descriptionFr": "",
+          "descriptionNl": "",
+          "descriptionEn": "",
+          "nameFr": "Pratiques de Stage : Successions et donations (séance 1/2)",
+          "nameNl": "",
+          "nameEn": "",
+          "startDateTime": "2024-10-22 18:00:00",
+          "endDateTime": "2024-10-22 21:00:00",
+          "speakers": [
+            {
+              "id": "1374",
+              "firstName": "Daphné",
+              "lastName": "DE LAVELEYE",
+              "pictureUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/40167/AVATAR_68f8e3b5febadd86c319186f6e9543d2e12c845a.png",
+              "userId": "465801",
+              "email": "ddl@lawtax.be",
+              "headlineFr": "{\"title\":\"Avocat Associ\\u00e9 @ Law Tax\",\"signature\":\"Avocat Associ\\u00e9 @ Law Tax\"}",
+              "headlineEn": "",
+              "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+              "blogUrlPath": "/author/daphne-de-laveleye/465801",
+              "slots": [
+                {
+                  "id": "4226",
+                  "type": "1"
+                }
+              ]
+            }
+          ],
+          "accreditationHours": 3,
+          "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+          "memberPrice": 50,
+          "nonMemberPrice": 66,
+          "isReplayable": 1,
+          "replayStatus": 1,
+          "status": 1,
+          "isCertificateNotIncluded": 0,
+          "isIncludedPremium": 0,
+          "isVirtual": 1,
+          "client": 1256,
+          "eventDates": [],
+          "slotsCount": 1,
+          "eventCycles": [
+            {
+              "id": 2738,
+              "number": 1717,
+              "cycle": 127,
+              "isCyclePremium": false,
+              "isCycleSeason": false,
+              "event": 1717
+            },
+            {
+              "id": 2780,
+              "number": 1717,
+              "cycle": 133,
+              "isCyclePremium": false,
+              "isCycleSeason": true,
+              "event": 1717
+            }
+          ],
+          "slotReplayUrls": {
+            "webinarUrlEn": "https://webinar-1.staging.tamtam.pro/webinars/2hAxAamBHJZjYp6zc",
+            "webinarReplayVideoEn": "",
+            "webinarReplayVideoFr": "",
+            "webinarReplayVideoNl": ""
+          }
+        }
+      },
+      {
+        "id": 2739,
+        "number": 1718,
+        "cycle": 127,
+        "isCyclePremium": false,
+        "isCycleSeason": false,
+        "event": 1718,
+        "eventsAbstract": {
+          "id": 1718,
+          "urlBannerFr": "/eventsFolder/client1256/event1718/_model/html/img/bannerFr_2024_03_25_15_46_57-original.png",
+          "urlBannerNl": "",
+          "urlBannerEn": "",
+          "descriptionFr": "",
+          "descriptionNl": "",
+          "descriptionEn": "",
+          "nameFr": "Pratiques de Stage : Successions et donations (séance 2/2)",
+          "nameNl": "",
+          "nameEn": "",
+          "startDateTime": "2024-11-07 18:00:00",
+          "endDateTime": "2024-11-07 21:00:00",
+          "speakers": [
+            {
+              "id": "1374",
+              "firstName": "Daphné",
+              "lastName": "DE LAVELEYE",
+              "pictureUrl": "http://s3.tamtam.pro/local/storage/media/IMAGE/40167/AVATAR_68f8e3b5febadd86c319186f6e9543d2e12c845a.png",
+              "userId": "465801",
+              "email": "ddl@lawtax.be",
+              "headlineFr": "{\"title\":\"Avocat Associ\\u00e9 @ Law Tax\",\"signature\":\"Avocat Associ\\u00e9 @ Law Tax\"}",
+              "headlineEn": "",
+              "headlineNl": "{\"title\":\"\",\"signature\":\"\"}",
+              "blogUrlPath": "/author/daphne-de-laveleye/465801",
+              "slots": [
+                {
+                  "id": "4227",
+                  "type": "1"
+                }
+              ]
+            }
+          ],
+          "accreditationHours": 3,
+          "languages": "{\"Fr\":\"1\",\"Nl\":0,\"En\":0}",
+          "memberPrice": 50,
+          "nonMemberPrice": 66,
+          "isReplayable": 1,
+          "replayStatus": 1,
+          "status": 1,
+          "isCertificateNotIncluded": 0,
+          "isIncludedPremium": 0,
+          "isVirtual": 1,
+          "client": 1256,
+          "eventDates": [],
+          "slotsCount": 1,
+          "eventCycles": [
+            {
+              "id": 2739,
+              "number": 1718,
+              "cycle": 127,
+              "isCyclePremium": false,
+              "isCycleSeason": false,
+              "event": 1718
+            },
+            {
+              "id": 2781,
+              "number": 1718,
+              "cycle": 133,
+              "isCyclePremium": false,
+              "isCycleSeason": true,
+              "event": 1718
+            }
+          ],
+          "slotReplayUrls": {
+            "webinarUrlEn": "https://webinar-1.staging.tamtam.pro/webinars/ab254JdqGgc8QqiuX",
+            "webinarReplayVideoEn": "",
+            "webinarReplayVideoFr": "",
+            "webinarReplayVideoNl": ""
+          }
+        }
+      }
+    ],
+    "allEventsPrices": {
+      "member": 100,
+      "nonMember": 132
+    }
+  }
+]

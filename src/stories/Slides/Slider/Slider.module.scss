@@ -1,0 +1,217 @@
+@import "foundation-sites/scss/util/util";
+
+.container {
+  .arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &.left {
+      transform: rotate(180deg);
+    }
+
+    &:hover {
+      background-color: #f0f0f0;
+    }
+  }
+
+  .dots {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: #fff;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+
+      &.activeDot {
+        background-color: #bce4fa;
+      }
+
+      &:hover {
+        background-color: #f0f0f0;
+      }
+    }
+  }
+}
+
+.slider {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 26px;
+  background-color: #bce4fa;
+  border-radius: 24px;
+  max-width: 1500px;
+  height: 404px;
+  gap: 24px;
+
+  .cards {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    flex: 1;
+
+    .card {
+      transition: all 0.8s ease;
+      width: 753px;
+      background-color: #29394d;
+      border-radius: 14px;
+    }
+
+    .hiddenCard {
+      position: absolute;
+      opacity: 0;
+    }
+
+    .activeCard {
+      position: absolute;
+      z-index: 9;
+      opacity: 1;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) scale(1);
+    }
+
+    .prevCard {
+      position: absolute;
+      z-index: 2;
+      opacity: 0.9;
+      top: 50%;
+      left: 0;
+      transform: translate(-25%, -50%) scale(0.5);
+      pointer-events: none;
+    }
+
+    .nextCard {
+      position: absolute;
+      z-index: 2;
+      opacity: 0.9;
+      top: 50%;
+      left: 100%;
+      transform: translate(-75%, -50%) scale(0.5);
+      pointer-events: none;
+    }
+
+    .prevPrevCard {
+      position: absolute;
+      z-index: 1;
+      opacity: 0;
+      top: 50%;
+      left: 0;
+      transform: translate(-25%, -50%) scale(0.5);
+      pointer-events: none;
+    }
+
+    .nextNextCard {
+      position: absolute;
+      z-index: 1;
+      opacity: 0;
+      top: 50%;
+      left: 100%;
+      transform: translate(-75%, -50%) scale(0.5);
+      pointer-events: none;
+    }
+  }
+}
+
+.sliderMobile {
+  display: flex;
+  width: 100%;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+
+  .cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    height: 350px;
+    position: relative;
+
+    .hiddenCard {
+      display: none;
+    }
+
+    .card {
+      width: 100%;
+      height: 100%;
+      transition: all 0.8s ease;
+    }
+
+    .activeCard {
+      position: absolute;
+      z-index: 1000;
+      opacity: 1;
+      top: 50%;
+      left: 50%;
+      transform: scale(1) translate(-50%, -50%);
+    }
+
+    .prevCard {
+      position: absolute;
+      z-index: 2;
+      opacity: 0.9;
+      top: 0;
+      left: 0;
+      transform: scale(0.5) translateX(-50%);
+      pointer-events: none;
+    }
+
+    .nextCard {
+      position: absolute;
+      z-index: 2;
+      opacity: 0.9;
+      top: 0;
+      left: 100%;
+      transform: scale(0.5) translateX(-150%);
+      pointer-events: none;
+    }
+  }
+
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+}
+
+@include breakpoint(medium up) {
+  .sliderMobile {
+    display: none;
+  }
+}
+
+@include breakpoint(medium only) {
+  .slider {
+    height: 464px;
+
+    .cards {
+      .card {
+        width: calc(100% / (3 / 2));
+      }
+    }
+  }
+}
+
+@include breakpoint(small only) {
+  .slider {
+    display: none;
+  }
+}

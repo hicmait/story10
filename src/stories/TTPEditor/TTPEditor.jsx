@@ -171,7 +171,6 @@ export const TTPEditor = (props) => {
       <SunEditor
         getSunEditorInstance={getSunEditorInstance}
         placeholder={I18N[lng]["write_here"]}
-        lang={lng}
         token={auth.token}
         setOptions={{
           attributesWhitelist: {
