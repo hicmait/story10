@@ -54,7 +54,7 @@ export const getSelectStyles = (
   customTextStyle,
   customInputStyle,
   hasError,
-  selected
+  selected,
 ) => {
   // const layoutTheme = getTheme(theme);
   // const themeColor = layoutTheme.primaryColor;
@@ -125,8 +125,8 @@ export const getSelectStyles = (
       backgroundColor: isDisabled
         ? undefined
         : isSelected || isFocused
-        ? "#F1F2F4"
-        : "#FFFFFF",
+          ? "#F1F2F4"
+          : "#FFFFFF",
       ":hover": {
         ...styles?.[":hover"],
         backgroundColor: isDisabled ? undefined : "#F1F2F4",
@@ -160,12 +160,12 @@ export const getSelectStyles = (
 export const getAsyncSelectStyles = (
   theme,
   customTextStyle,
-  customInputStyle
+  customInputStyle,
 ) => {
   const { input, ...selectStyles } = getSelectStyles(
     theme,
     customTextStyle,
-    customInputStyle
+    customInputStyle,
   );
 
   return {
@@ -195,7 +195,7 @@ export function Menu(props) {
   );
 }
 
-export function DropdownIndicator(props: any) {
+export function DropdownIndicator(props) {
   return (
     <components.DropdownIndicator {...props}>
       <PolygonIcon fill="#6D7F92" width="11" height="7" />
