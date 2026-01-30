@@ -16,7 +16,7 @@ export * from "../stories/Avatar/Avatar";
 export * from "../stories/Avatar/AuthorAvatar";
 export * from "../stories/ChainCard/ChainCard";
 // export * from "../stories/CustumedMatrix/CustumedMatrix";
-// export * from "../stories/EventCard/EventCard";
+export * from "../stories/EventCard/EventCard";
 export * from "../stories/Modal/ModalConfirm";
 export * from "../stories/UserCard/UserCard";
 export * from "../stories/CookieConsent/CookieConsent";
