@@ -20,7 +20,7 @@ export default defineConfig({
     lib: {
       entry: path.resolve(__dirname, "src/lib/main.js"),
       // formats: ["es"],
-      name: "tamtam-new",
+      name: "tamtam-components",
       fileName: "main",
     },
     rollupOptions: {
