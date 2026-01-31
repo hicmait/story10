@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { components } from "react-select";
-import AsyncCreatableSelect from "react-select/async-creatable";
+// import AsyncCreatableSelect from "react-select/async-creatable";
 import Select from "react-select";
-import AsyncSelect from "react-select/async";
+// import AsyncSelect from "react-select/async";
 import { Modal as AntModal } from "antd";
 import { toast } from "react-toastify";
 
@@ -473,7 +473,7 @@ export const Tag = (props) => {
     let tmp = [];
     if (e) {
       const hasFusionAction = e.filter(
-        (t) => t.value === "FUSION_SELECTION_ACTION"
+        (t) => t.value === "FUSION_SELECTION_ACTION",
       );
       if (hasFusionAction && hasFusionAction.length === 1) {
         setOpenMergeModal(true);
@@ -599,7 +599,7 @@ export const Tag = (props) => {
             id: tagId,
             superTag: superTag.tag.id,
           },
-          apiUrl
+          apiUrl,
         );
 
         tab = tab.map((item) => {
@@ -679,7 +679,7 @@ export const Tag = (props) => {
 
   return (
     <>
-      {allowCreateTags ? (
+      {/* {allowCreateTags ? (
         <AsyncCreatableSelect
           isLoading={loadingTags}
           isMulti
@@ -705,7 +705,7 @@ export const Tag = (props) => {
           components={{ MultiValueLabel }}
           classNamePrefix="custom-select"
         />
-      )}
+      )} */}
 
       <AntModal
         closable={false}
@@ -827,7 +827,7 @@ export const Tag = (props) => {
                       <label className={styles.configLabel}>
                         {I18N[lng]["select_supertag"]}
                       </label>
-                      <AsyncSelect
+                      {/* <AsyncSelect
                         cacheOptions
                         isClearable
                         value={superTag}
@@ -835,7 +835,7 @@ export const Tag = (props) => {
                         onChange={(e) => setSuperTag(e)}
                         loadOptions={fetchSuperTags}
                         classNamePrefix="custom-select"
-                      />
+                      /> */}
                     </div>
 
                     <div className={styles.superTag_box}>
@@ -855,7 +855,7 @@ export const Tag = (props) => {
                               !tag.tag.isSuperTag &&
                               !tag.tag.superTag ? (
                                 <span className={styles.tag}>{tag.label}</span>
-                              ) : null
+                              ) : null,
                             )}
                           </p>
                         </>
@@ -868,7 +868,7 @@ export const Tag = (props) => {
                   <label className={styles.configLabel}>
                     {I18N[lng]["theme"]}
                   </label>
-                  <AsyncSelect
+                  {/* <AsyncSelect
                     cacheOptions
                     styles={SELECT_STYLES}
                     value={theme}
@@ -880,7 +880,7 @@ export const Tag = (props) => {
                     getOptionValue={(option) => option.id}
                     placeholder={I18N[lng]["select_theme"]}
                     className={styles.input}
-                  />
+                  /> */}
                 </div>
 
                 <div className={styles.formRow}>
