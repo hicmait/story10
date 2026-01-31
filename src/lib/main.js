@@ -26,7 +26,7 @@ export * from "../stories/TableBorderedColumns/TableBorderedColumns";
 // export * from "../stories/Tag/Tag";
 export * from "../stories/PopUp/PopupConfirm";
 export * from "../stories/EventLayout/EventLayout";
-export * from "../stories/Slides/EventSlide/EventSlide";
+// export * from "../stories/Slides/EventSlide/EventSlide";
 export * from "../stories/Slides/CycleSlide/CycleSlide";
 export * from "../stories/Slides/PremiumSlide/PremiumSlide";
 export * from "../stories/Slides/MembershipSlide/MembershipSlide";
