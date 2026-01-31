@@ -3,7 +3,7 @@ import { components } from "react-select";
 // import AsyncCreatableSelect from "react-select/async-creatable";
 import Select from "react-select";
 // import AsyncSelect from "react-select/async";
-import { Modal as AntModal } from "antd";
+// import { Modal as AntModal } from "antd";
 import { toast } from "react-toastify";
 
 import { getTagName } from "../../utils";
@@ -11,7 +11,7 @@ import { getTags, saveTag, saveSuperTag, getTag, getThemes } from "../../api";
 import Button from "./Button";
 import Loader from "./Loader";
 
-import TagMergeModal from "./TagMergeModal";
+// import TagMergeModal from "./TagMergeModal";
 import Switch from "./Switch";
 import styles from "./Tag.module.scss";
 
@@ -707,237 +707,7 @@ export const Tag = (props) => {
         />
       )} */}
 
-      <AntModal
-        closable={false}
-        open={openTagModal}
-        maskClosable={false}
-        width="65vw"
-        styles={modalStyles}
-        height="45vh"
-        footer={null}
-        onCancel={() => {
-          setOpenTagModal(false);
-          setSuperTag(null);
-        }}
-        destroyOnClose={true}
-        zIndex="9999"
-      >
-        <div className={styles.modal_header}>
-          {I18N[lng]["tag_modal_title"]}
-        </div>
-        <div
-          className={styles.modal_close}
-          onClick={() => {
-            setOpenTagModal(false);
-            setSuperTag(null);
-          }}
-        >
-          <svg width={17} height={17} viewBox="0 0 17 17" fill="none">
-            <path
-              d="M6.47932 8.49955L0.418184 2.43842C-0.13975 1.88049 -0.13975 0.975897 0.418184 0.418042C0.97612 -0.139892 1.88063 -0.139892 2.43856 0.418042L8.49978 6.47925L14.561 0.417963C15.1189 -0.139972 16.0234 -0.139972 16.5814 0.417963C17.1392 0.975897 17.1392 1.88049 16.5814 2.43834L10.5202 8.49947L16.5814 14.5607C17.1392 15.1186 17.1392 16.0232 16.5814 16.5811C16.0234 17.139 15.1189 17.139 14.561 16.5811L8.49978 10.5198L2.43856 16.5811C1.88071 17.139 0.97612 17.139 0.418184 16.5811C-0.13975 16.0231 -0.13975 15.1186 0.418184 14.5607L6.47932 8.49955Z"
-              fill="currentColor"
-            />
-          </svg>
-        </div>
-        {editTag && (
-          <>
-            <div className={styles.modalTag}>
-              <div className={styles.modalTag_left}>
-                <h3>{I18N[lng]["tag_translate"]}</h3>
-                <div className={styles.formRow}>
-                  <label
-                    className={`${styles.configLabel} ${styles.configLabelFlex}`}
-                  >
-                    <img
-                      src={`https://tamtam.s3-eu-west-1.amazonaws.com/cdn/widget/${appEnv}/img/flags/FR.jpg`}
-                    />
-                    <span>{I18N[lng]["tag_name"]} FR</span>
-                  </label>
-                  <input
-                    className={styles.formInput}
-                    value={editTag.nameFr}
-                    onChange={(e) => {
-                      setEditTag({ ...editTag, nameFr: e.target.value });
-                    }}
-                  />
-                </div>
-                <div className={styles.formRow}>
-                  <label
-                    className={`${styles.configLabel} ${styles.configLabelFlex}`}
-                  >
-                    <img
-                      src={`https://tamtam.s3-eu-west-1.amazonaws.com/cdn/widget/${appEnv}/img/flags/NL.jpg`}
-                    />
-                    <span>{I18N[lng]["tag_name"]} NL</span>
-                  </label>
-                  <input
-                    className={styles.formInput}
-                    value={editTag.nameNl}
-                    onChange={(e) => {
-                      setEditTag({ ...editTag, nameNl: e.target.value });
-                    }}
-                  />
-                </div>
-                <div className={styles.formRow}>
-                  <label
-                    className={`${styles.configLabel} ${styles.configLabelFlex}`}
-                  >
-                    <img
-                      src={`https://tamtam.s3-eu-west-1.amazonaws.com/cdn/widget/${appEnv}/img/flags/EN.jpg`}
-                    />
-                    <span>{I18N[lng]["tag_name"]} EN</span>
-                  </label>
-                  <input
-                    className={styles.formInput}
-                    value={editTag.nameEn}
-                    onChange={(e) => {
-                      setEditTag({ ...editTag, nameEn: e.target.value });
-                    }}
-                  />
-                </div>
-
-                <div className={styles.modalTag_controls}>
-                  {savingTag ? (
-                    <Button
-                      variant="primary"
-                      style={{ paddingTop: "15px", paddingBottom: "15px" }}
-                      className={styles.controls__ok}
-                    >
-                      <Loader
-                        style={{
-                          height: "10px",
-                        }}
-                        color={"#fff"}
-                      />
-                    </Button>
-                  ) : (
-                    <Button onClick={saveTranslateTag} variant="primary">
-                      {I18N[lng]["save"]}
-                    </Button>
-                  )}
-                </div>
-              </div>
-
-              <div className={styles.modalTag_right}>
-                <h3>SuperTag</h3>
-
-                {!editTag?.isSuperTag && (
-                  <>
-                    <div className={styles.formRow}>
-                      <label className={styles.configLabel}>
-                        {I18N[lng]["select_supertag"]}
-                      </label>
-                      {/* <AsyncSelect
-                        cacheOptions
-                        isClearable
-                        value={superTag}
-                        styles={SELECT_STYLES}
-                        onChange={(e) => setSuperTag(e)}
-                        loadOptions={fetchSuperTags}
-                        classNamePrefix="custom-select"
-                      /> */}
-                    </div>
-
-                    <div className={styles.superTag_box}>
-                      {!editTag.superTag && (
-                        <>
-                          <p className={styles.superTag_title}>
-                            <span>{I18N[lng]["apply_all_tags"]}</span>
-                            <Switch
-                              isChecked={applyAllSelection}
-                              onChange={(e) => setApplyAllSelection(e)}
-                            />
-                          </p>
-
-                          <p className={styles.tags_list}>
-                            {tags?.map((tag) =>
-                              !tag["__isNew__"] &&
-                              !tag.tag.isSuperTag &&
-                              !tag.tag.superTag ? (
-                                <span className={styles.tag}>{tag.label}</span>
-                              ) : null,
-                            )}
-                          </p>
-                        </>
-                      )}
-                    </div>
-                  </>
-                )}
-
-                <div className={styles.formRow}>
-                  <label className={styles.configLabel}>
-                    {I18N[lng]["theme"]}
-                  </label>
-                  {/* <AsyncSelect
-                    cacheOptions
-                    styles={SELECT_STYLES}
-                    value={theme}
-                    onChange={handleChangeTheme}
-                    isLoading={loadingThemes}
-                    loadOptions={fetchThemes}
-                    defaultOptions={true}
-                    getOptionLabel={(option) => option.title}
-                    getOptionValue={(option) => option.id}
-                    placeholder={I18N[lng]["select_theme"]}
-                    className={styles.input}
-                  /> */}
-                </div>
-
-                <div className={styles.formRow}>
-                  <label className={styles.configLabel}>
-                    {I18N[lng]["page"]}
-                  </label>
-                  <Select
-                    styles={SELECT_STYLES}
-                    isLoading={loadingThemes}
-                    options={pageOptions}
-                    className={styles.input}
-                    placeholder={I18N[lng]["select_page"]}
-                    value={pages}
-                    getOptionLabel={(option) => option.title}
-                    getOptionValue={(option) => option.id}
-                    onChange={(e) => setPages(e)}
-                    isMulti
-                  />
-                </div>
-
-                <div className={styles.modalTag_controls}>
-                  {savingSuperTag ? (
-                    <Button
-                      variant="primary"
-                      style={{ paddingTop: "15px", paddingBottom: "15px" }}
-                      className={styles.controls__ok}
-                    >
-                      <Loader
-                        style={{
-                          height: "10px",
-                        }}
-                        color={"#fff"}
-                      />
-                    </Button>
-                  ) : (
-                    <Button onClick={handleSaveSuperTag} variant="primary">
-                      {I18N[lng]["save"]}
-                    </Button>
-                  )}
-                </div>
-              </div>
-            </div>
-            <div className={styles.modalTag_footer}>
-              <Button
-                onClick={() => {
-                  setOpenTagModal(false);
-                  setSuperTag(null);
-                }}
-                variant="default"
-              >
-                {I18N[lng]["cancel"]}
-              </Button>
-            </div>
-          </>
-        )}
-      </AntModal>
-      <TagMergeModal
+      {/* <TagMergeModal
         openModal={openMergeModal}
         setOpenModal={setOpenMergeModal}
         lng={lng}
@@ -946,7 +716,7 @@ export const Tag = (props) => {
         I18N={I18N}
         apiUrl={apiUrl}
         token={token}
-      />
+      /> */}
     </>
   );
 };
