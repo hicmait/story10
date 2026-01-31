@@ -34,7 +34,7 @@ export * from "../stories/CardTool/CardTool";
 // export * from "../stories/Slides/CustomisedSlide/CustomisedSlide";
 // export * from "../stories/Slides/Slider/Slider";
 // export * from "../stories/CycleCard/CycleCard";
-export * from "../stories/FocusedBlock/FocusedBlock";
+// export * from "../stories/FocusedBlock/FocusedBlock";
 // export * from "../stories/Masks/EventMask/EventMask";
 // export * from "../stories/Masks/CycleMask/CycleMask";
 // export * from "../stories/GoPeopleAuthHeader";
