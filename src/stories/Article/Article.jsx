@@ -2,7 +2,7 @@ import { useState } from "react";
 import Slider from "react-slick";
 import classnames from "classnames";
 
-import RepeatIcon from "./assets/repeat.svg";
+import repeatIcon from "./assets/repeat.svg";
 import styles from "./Article.module.scss";
 import { AuthorAvatar } from "../Avatar/AuthorAvatar";
 import { Fetching } from "./Fetching";
@@ -210,7 +210,7 @@ export const Article = ({
           <div
             className={classnames(
               styles.action,
-              socialData.isLiked === 1 ? styles.activeAction : ""
+              socialData.isLiked === 1 ? styles.activeAction : "",
             )}
             onClick={() => onLike()}
           >
@@ -219,14 +219,14 @@ export const Article = ({
                 "icon-sb-thumb-up",
                 articleId === article.id && isSavingLike
                   ? "animate__bounceIn"
-                  : ""
+                  : "",
               )}
             />
           </div>
           <div
             className={classnames(
               styles.action,
-              socialData.isLiked === 0 ? styles.activeAction : ""
+              socialData.isLiked === 0 ? styles.activeAction : "",
             )}
             onClick={() => onDislike()}
           >
@@ -235,7 +235,7 @@ export const Article = ({
                 "icon-sb-thumb-down",
                 articleId === article.id && isSavingDislike
                   ? "animate__bounceIn"
-                  : ""
+                  : "",
               )}
             />
           </div>
@@ -247,7 +247,7 @@ export const Article = ({
             <div
               className={classnames(
                 styles.sharePopup,
-                isOpen ? "show" : "hide"
+                isOpen ? "show" : "hide",
               )}
             >
               <a
@@ -281,7 +281,7 @@ export const Article = ({
             <div
               className={classnames(
                 styles.action,
-                socialData.isFavorite === 1 ? styles.activeAction : ""
+                socialData.isFavorite === 1 ? styles.activeAction : "",
               )}
               onClick={() => saveFavorite()}
             >
@@ -290,7 +290,7 @@ export const Article = ({
                   "icon-sb-star-o",
                   articleId === article.id && isSavingFavorite
                     ? "animate__bounceIn"
-                    : ""
+                    : "",
                 )}
               />
             </div>
@@ -309,7 +309,7 @@ export const Article = ({
           publishedAt,
           language,
           API_DATE_FORMAT,
-          " DD MMM YYYY " + I18N[language].atText + " HH:mm"
+          " DD MMM YYYY " + I18N[language].atText + " HH:mm",
         )}
         {readTime && (
           <div className={styles.readTime}>
@@ -335,7 +335,7 @@ export const Article = ({
               socialData.isLiked === 1 && styles.likesActive,
               articleId === article.id && isSavingLike
                 ? "animate__bounceIn"
-                : ""
+                : "",
             )}
             onClick={() => onLike()}
           >
@@ -375,7 +375,7 @@ export const Article = ({
             <div
               className={classnames(
                 styles.sharePopup,
-                isOpen ? "show" : "hide"
+                isOpen ? "show" : "hide",
               )}
             >
               <a
@@ -427,7 +427,7 @@ export const Article = ({
                 externalUrl: "",
               },
               env,
-              host
+              host,
             );
           }
           if (Link) {
@@ -479,7 +479,7 @@ export const Article = ({
                 publishedAt,
                 language,
                 API_DATE_FORMAT,
-                " DD MMM YYYY " + I18N[language].atText + " HH:mm"
+                " DD MMM YYYY " + I18N[language].atText + " HH:mm",
               )}
             </div>
           )}
@@ -583,7 +583,7 @@ export const Article = ({
                     publishedAt,
                     language,
                     API_DATE_FORMAT,
-                    " DD MMM YYYY " + I18N[language].atText + " HH:mm"
+                    " DD MMM YYYY " + I18N[language].atText + " HH:mm",
                   )}
                 </div>
               )}
@@ -637,7 +637,7 @@ export const Article = ({
                 publishedAt,
                 language,
                 API_DATE_FORMAT,
-                " DD MMM YYYY " + I18N[language].atText + " HH:mm"
+                " DD MMM YYYY " + I18N[language].atText + " HH:mm",
               )}
             </div>
           )}
@@ -653,7 +653,7 @@ export const Article = ({
                           background: `url(${addLandaSize(
                             media.path,
                             null,
-                            432
+                            432,
                           )}) no-repeat center center`,
                           backgroundSize: "cover",
                           width: "100%",
@@ -733,7 +733,7 @@ export const Article = ({
         className={classnames(
           styles.article,
           styles.default,
-          size ? styles[size] : ""
+          size ? styles[size] : "",
         )}
       >
         {renderAvatar()}
@@ -755,7 +755,7 @@ export const Article = ({
                 publishedAt,
                 language,
                 API_DATE_FORMAT,
-                " DD MMM YYYY " + I18N[language].atText + " HH:mm"
+                " DD MMM YYYY " + I18N[language].atText + " HH:mm",
               )}
             </div>
           )}
@@ -843,7 +843,7 @@ export const Article = ({
               styles.contentImg,
               hasActions || (!hasRights && status === "PROGRAMMED")
                 ? styles.hasActions
-                : ""
+                : "",
             )}
             style={{
               backgroundImage: `url(${addLandaSize(mediaUrl, null, 432)})`,
@@ -921,7 +921,7 @@ export const Article = ({
                   style={{ background: `${category.colorCode}` }}
                   title="oFFFcourse library"
                 >
-                  <RepeatIcon width="16" />
+                  <img src={repeatIcon} width="16" alt="" />
                 </div>
               )}
             </div>
@@ -976,7 +976,7 @@ export const Article = ({
                   style={{ background: `${category.colorCode}` }}
                   title="oFFFcourse library"
                 >
-                  <RepeatIcon width="16" />
+                  <img src={repeatIcon} width="16" alt="" />
                 </div>
               )}
             </div>
@@ -991,7 +991,7 @@ export const Article = ({
               styles.contentImg,
               hasActions || (!hasRights && status === "PROGRAMMED")
                 ? styles.hasActions
-                : ""
+                : "",
             )}
             style={{
               backgroundImage: `url(${addLandaSize(mediaUrl, null, 432)})`,
@@ -1049,7 +1049,7 @@ export const Article = ({
               styles.contentImg,
               !expert && (hasActions || (!hasRights && status === "PROGRAMMED"))
                 ? styles.hasActions
-                : ""
+                : "",
             )}
             style={{
               backgroundImage: `url(${addLandaSize(mediaUrl, null, 432)})`,
@@ -1139,7 +1139,7 @@ export const Article = ({
                   style={{ background: `${category.colorCode}` }}
                   title="oFFFcourse library"
                 >
-                  <RepeatIcon width="16" />
+                  <img src={repeatIcon} width="16" alt="" />
                 </div>
               )}
             </div>
@@ -1165,7 +1165,7 @@ export const Article = ({
               styles.contentImg,
               hasActions || (!hasRights && status === "PROGRAMMED")
                 ? styles.hasActions
-                : ""
+                : "",
             )}
             style={{
               backgroundImage: `url(${addLandaSize(mediaUrl, null, 432)})`,
@@ -1238,7 +1238,7 @@ export const Article = ({
                   style={{ background: `${category.colorCode}` }}
                   title="oFFFcourse library"
                 >
-                  <RepeatIcon width="16" />
+                  <img src={repeatIcon} width="16" alt="" />
                 </div>
               )}
             </div>
@@ -1263,7 +1263,7 @@ export const Article = ({
               styles.contentImg,
               hasActions || (!hasRights && status === "PROGRAMMED")
                 ? styles.hasActions
-                : ""
+                : "",
             )}
             style={{
               backgroundImage: `url(${addLandaSize(mediaUrl, null, 432)})`,
@@ -1352,7 +1352,7 @@ export const Article = ({
                     style={{ background: `${category.colorCode}` }}
                     title="oFFFcourse library"
                   >
-                    <RepeatIcon width="16" />
+                    <img src={repeatIcon} width="16" alt="" />
                   </div>
                 )}
               </div>
