@@ -22,7 +22,7 @@ export * from "../stories/UserCard/UserCard";
 export * from "../stories/CookieConsent/CookieConsent";
 export * from "../stories/CardTool/CardTool";
 export * from "../stories/TableBorderedColumns/TableBorderedColumns";
-export * from "../stories/TTPEditor/TTPEditor";
+// export * from "../stories/TTPEditor/TTPEditor";
 // export * from "../stories/Tag/Tag";
 export * from "../stories/PopUp/PopupConfirm";
 export * from "../stories/EventLayout/EventLayout";
