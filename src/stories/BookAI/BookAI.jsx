@@ -6,7 +6,7 @@ import style from "./BookAI.module.scss";
 import CheckMarkIcon from "../Icons/CheckMarkv2";
 import { I18N } from "../../i18n";
 // import RegistrationModal from "./RegistrationModal";
-import ProductDetailModal from "./ProductDetailModal";
+// import ProductDetailModal from "./ProductDetailModal";
 
 export default function BookAI({
   product,
@@ -286,14 +286,14 @@ export default function BookAI({
           showFiduciareModal={showFiduciareModal}
         />
       )} */}
-      {showDetailModal && (
+      {/* {showDetailModal && (
         <ProductDetailModal
           product={product}
           language={language}
           showModal={showDetailModal}
           setShowModal={setShowDetailModal}
         />
-      )}
+      )} */}
     </>
   );
 }
