@@ -13,7 +13,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // import "swiper/css/pagination";
 // import "swiper/css/scrollbar";
 // import "swiper/css/pagination";
-import ArrowRight from "../assets/arrow-right.svg?react";
+// import ArrowRight from "../assets/arrow-right.svg?react";
 import styles from "./ttp-slider.module.scss";
 import { useResponsive } from "../../../hooks/useResponsive";
 
@@ -39,7 +39,7 @@ export default function TTPSlider({
   const [nbrOfSlidesPerGroup, setNbrOfSlidesPerGroup] =
     useState(slidesPerGroup);
   const [totalCards, setTotalCards] = useState(
-    cards?.length - (rightOverflow ? 1 : 0)
+    cards?.length - (rightOverflow ? 1 : 0),
   );
   const [totalSlides, setTotalSlides] = useState(0);
   const [showActions, setShowActions] = useState(true);
@@ -51,21 +51,21 @@ export default function TTPSlider({
       setNbrOfSlidesPerView(2);
       setNbrOfSlidesPerGroup(2);
       setUpdateSwiper(
-        (prev) => prev.split(/\d/)[0] + Number(prev.slice(-1) + 1)
+        (prev) => prev.split(/\d/)[0] + Number(prev.slice(-1) + 1),
       );
     }
     if (isMobile && nbrOfSlidesPerView !== 1) {
       setNbrOfSlidesPerView(1);
       setNbrOfSlidesPerGroup(1);
       setUpdateSwiper(
-        (prev) => prev.split(/\d/)[0] + Number(prev.slice(-1) + 1)
+        (prev) => prev.split(/\d/)[0] + Number(prev.slice(-1) + 1),
       );
     }
     if (!isMobile && !isTablet && nbrOfSlidesPerView !== slidesPerView) {
       setNbrOfSlidesPerView(slidesPerView);
       setNbrOfSlidesPerGroup(slidesPerGroup);
       setUpdateSwiper(
-        (prev) => prev.split(/\d/)[0] + Number(prev.slice(-1) + 1)
+        (prev) => prev.split(/\d/)[0] + Number(prev.slice(-1) + 1),
       );
     }
   }, [isMobile, isTablet, slidesPerView, slidesPerGroup]);
@@ -81,7 +81,7 @@ export default function TTPSlider({
     const slidesTotal =
       Math.ceil(totalCards / nbrOfSlidesPerGroup) -
       Math.ceil(
-        (nbrOfSlidesPerView - nbrOfSlidesPerGroup) / nbrOfSlidesPerGroup
+        (nbrOfSlidesPerView - nbrOfSlidesPerGroup) / nbrOfSlidesPerGroup,
       );
 
     setTotalSlides(slidesTotal);
@@ -157,7 +157,7 @@ export default function TTPSlider({
                     onClick={() => handleGoTo(index)}
                     className={classNames(
                       index === Math.ceil(slideIndex / nbrOfSlidesPerGroup) &&
-                        styles.active
+                        styles.active,
                     )}
                   />
                 ))}
@@ -167,19 +167,19 @@ export default function TTPSlider({
             className={classNames(
               styles.button,
               styles.reverse,
-              slideIndex === 0 && styles.disabled
+              slideIndex === 0 && styles.disabled,
             )}
             onClick={() => {
               return slideIndex !== 0 && handlePrevClick();
             }}
           >
-            <ArrowRight />
+            {/* <ArrowRight /> */}
           </div>
           <div
             className={classNames(styles.button)}
             onClick={() => handleNextClick()}
           >
-            <ArrowRight />
+            {/* <ArrowRight /> */}
           </div>
         </div>
       );

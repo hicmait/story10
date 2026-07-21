@@ -1,11 +1,6 @@
 "use client";
 import React, { useEffect, useState, useMemo } from "react";
 import cn from "classnames";
-import {
-  QueryClient,
-  QueryClientProvider,
-  useQuery,
-} from "@tanstack/react-query";
 import Slider from "react-slick";
 
 import BookAI from "./BookAI";
