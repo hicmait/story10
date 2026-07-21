@@ -1,4 +1,4 @@
-import { Autocomplete, LoadScript } from "@react-google-maps/api";
+// import { Autocomplete, LoadScript } from "@react-google-maps/api";
 import cn from "classnames";
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import * as yup from "yup";
@@ -58,7 +58,7 @@ export function AddAddress({
     billingRegion: "",
     billingDoNotSendInvoice: false,
   });
-  const GOOGLE_MAP_API_KEY = "AIzaSyAiOtVCQorixsHMcyagZDJVDGhdbbfANl4";
+  // const GOOGLE_MAP_API_KEY = "AIzaSyAiOtVCQorixsHMcyagZDJVDGhdbbfANl4";
 
   const flagsOptions = [
     {
@@ -123,7 +123,7 @@ export function AddAddress({
   const validateCompanyNumber = async (
     companyNumber,
     subjectToVAT,
-    autoComplete
+    autoComplete,
   ) => {
     setIsFetching(true);
     if (!companyNumber) {
@@ -161,7 +161,7 @@ export function AddAddress({
               const region = await getRegionFromAddress(
                 streetAddress,
                 country,
-                postalCode
+                postalCode,
               );
               setData((data) => ({
                 ...data,
@@ -222,8 +222,8 @@ export function AddAddress({
                 validateCompanyNumber(
                   value,
                   true,
-                  context.options.context?.autoComplete
-                )
+                  context.options.context?.autoComplete,
+                ),
             ),
         otherwise: () =>
           yup
@@ -236,8 +236,8 @@ export function AddAddress({
                 validateCompanyNumber(
                   value,
                   false,
-                  context.options.context?.autoComplete
-                )
+                  context.options.context?.autoComplete,
+                ),
             ),
       }),
     billingOrganization: yup
@@ -252,7 +252,7 @@ export function AddAddress({
         "billingStreet",
         translate("streetNumberMissing"),
         (value, context) =>
-          containsNumber(value) || context.options.context?.skip
+          containsNumber(value) || context.options.context?.skip,
       ),
 
     billingAddress2: yup.string().label(translate("billingAddress2")),
@@ -264,10 +264,10 @@ export function AddAddress({
       .label(translate("billingPostalCode")) // Ex: '1360 Perwez',
       .required(translate("required"))
       .test("billingPostalCode", translate("missing_postal_code"), (value) =>
-        /\d{4,9}/.test(value)
+        /\d{4,9}/.test(value),
       )
       .test("billingPostalCode", translate("missing_locality"), (value) =>
-        /[a-zA-Z]/.test(value)
+        /[a-zA-Z]/.test(value),
       ),
     billingSubjectToVAT: yup
       .string()
@@ -290,10 +290,10 @@ export function AddAddress({
       setSaving(true);
       data.billingCompanyNumber = data.billingCompanyNumber.replace(
         /[. ]/g,
-        ""
+        "",
       );
       onSubmit({ ...data, billingCountry: selectedFlag.value }, () =>
-        setSaving(false)
+        setSaving(false),
       );
     } catch (err) {
       const mapErrors = err.inner.map(({ path, message }) => ({
@@ -405,16 +405,16 @@ export function AddAddress({
           }
         }
         const street = place.address_components?.find((component) =>
-          component.types.includes("route")
+          component.types.includes("route"),
         );
         const streetNumber = place.address_components?.find((component) =>
-          component.types.includes("street_number")
+          component.types.includes("street_number"),
         );
         const postalCode = place.address_components?.find((component) =>
-          component.types.includes("postal_code")
+          component.types.includes("postal_code"),
         );
         const locality = place.address_components?.find((component) =>
-          component.types.includes("locality")
+          component.types.includes("locality"),
         );
         if (street && streetNumber) {
           setData((data) => ({
@@ -449,10 +449,10 @@ export function AddAddress({
       const place = pcAutocompleteRef.current?.getPlace();
       if (place) {
         const postalCode = place.address_components?.find((component) =>
-          component.types.includes("postal_code")
+          component.types.includes("postal_code"),
         );
         const locality = place.address_components?.find((component) =>
-          component.types.includes("locality")
+          component.types.includes("locality"),
         );
         if (postalCode && locality) {
           setData((data) => ({
@@ -494,7 +494,7 @@ export function AddAddress({
           disabled={isFetching}
           wrapperClassName={cn(
             horizontalInputs ? s.inputsContainer : s.inputsContainerVertical,
-            s[theme]
+            s[theme],
           )}
         >
           {!isEmpty(errors.billingCompanyNumber) && (
@@ -517,7 +517,7 @@ export function AddAddress({
           disabled={isFetching}
           wrapperClassName={cn(
             horizontalInputs ? s.inputsContainer : s.inputsContainerVertical,
-            s[theme]
+            s[theme],
           )}
         >
           {!isEmpty(errors.billingOrganization) && (
@@ -542,7 +542,7 @@ export function AddAddress({
             selected={!isEmpty(data.billingStreet)}
             hasError={!isEmpty(errors.billingStreet)}
           />
-          <LoadScript
+          {/* <LoadScript
             googleMapsApiKey={GOOGLE_MAP_API_KEY}
             libraries={libraries}
             language={lng}
@@ -599,11 +599,11 @@ export function AddAddress({
                 )}
               </TTPInput>
             </Autocomplete>
-          </LoadScript>
+          </LoadScript> */}
         </div>
         {/* billingPostalCode */}
         <div>
-          <LoadScript
+          {/* <LoadScript
             googleMapsApiKey={GOOGLE_MAP_API_KEY}
             libraries={["places"]}
             language={lng}
@@ -644,7 +644,7 @@ export function AddAddress({
                 )}
               </TTPInput>
             </Autocomplete>
-          </LoadScript>
+          </LoadScript> */}
         </div>
         {/* billingRegion */}
         <TTPInput
@@ -663,7 +663,7 @@ export function AddAddress({
           wrapperClassName={cn(
             horizontalInputs ? s.inputsContainer : s.inputsContainerVertical,
             s[theme],
-            s.disabled
+            s.disabled,
           )}
         >
           {!isEmpty(errors.billingRegion) && <p>{errors.billingRegion}</p>}
@@ -684,7 +684,7 @@ export function AddAddress({
           disabled={isFetching}
           wrapperClassName={cn(
             horizontalInputs ? s.inputsContainer : s.inputsContainerVertical,
-            s[theme]
+            s[theme],
           )}
         >
           {!isEmpty(errors.billingAddress2) && <p>{errors.billingAddress2}</p>}
@@ -705,7 +705,7 @@ export function AddAddress({
           disabled={isFetching}
           wrapperClassName={cn(
             horizontalInputs ? s.inputsContainer : s.inputsContainerVertical,
-            s[theme]
+            s[theme],
           )}
         >
           {!isEmpty(errors.billingOrderNumber) && (
