@@ -12,7 +12,7 @@ import BookAI from "./BookAI";
 import style from "./BookAI.module.scss";
 import { getAuthAccess, getProducts } from "./api";
 import { getAiUrl, getApiUrl, isEmpty } from "../../utils";
-// import { TTPSlider } from "../../common/components/sliders/ttp-slider";
+import { TTPSlider } from "../../common/components/sliders/ttp-slider";
 import { useResponsive } from "../../common/hooks/useResponsive";
 import Checkbox from "../common/Checkbox";
 import { I18N } from "../../i18n";
@@ -350,7 +350,7 @@ export const BookAIListComponent = ({
       <h1>{translate("livres_numerique")}</h1>
       <div className={style.cycles_slider}>
         {/* <Slider {...settings}>{renderBooks()}</Slider> */}
-        {/* <TTPSlider
+        <TTPSlider
           className={style.layout_custom}
           cards={renderBooks()}
           slidesPerView={3}
@@ -360,7 +360,7 @@ export const BookAIListComponent = ({
           isAuto
           centeredSlides
           loop={productsLength > 3 ? true : false}
-        /> */}
+        />
       </div>
     </div>
   ) : (
