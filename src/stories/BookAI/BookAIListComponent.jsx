@@ -174,7 +174,7 @@ export const BookAIListComponent = ({
             : {}
         }
       >
-        {/* <BookAI
+        <BookAI
           viewType={viewType}
           product={product}
           productsLength={productsLength}
@@ -225,7 +225,7 @@ export const BookAIListComponent = ({
           fiduciaires={fiduciaires}
           showFiduciareModal={showFiduciareModal}
           showDetailsModal={showDetailsModal}
-        /> */}
+        />
       </div>
     ));
 

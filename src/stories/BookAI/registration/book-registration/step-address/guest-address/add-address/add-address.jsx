@@ -1,4 +1,4 @@
-// import { Autocomplete, LoadScript } from "@react-google-maps/api";
+import { Autocomplete, LoadScript } from "@react-google-maps/api";
 import cn from "classnames";
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import * as yup from "yup";
@@ -58,7 +58,7 @@ export function AddAddress({
     billingRegion: "",
     billingDoNotSendInvoice: false,
   });
-  // const GOOGLE_MAP_API_KEY = "AIzaSyAiOtVCQorixsHMcyagZDJVDGhdbbfANl4";
+  const GOOGLE_MAP_API_KEY = "AIzaSyAiOtVCQorixsHMcyagZDJVDGhdbbfANl4";
 
   const flagsOptions = [
     {
@@ -542,7 +542,7 @@ export function AddAddress({
             selected={!isEmpty(data.billingStreet)}
             hasError={!isEmpty(errors.billingStreet)}
           />
-          {/* <LoadScript
+          <LoadScript
             googleMapsApiKey={GOOGLE_MAP_API_KEY}
             libraries={libraries}
             language={lng}
@@ -582,7 +582,7 @@ export function AddAddress({
                   horizontalInputs
                     ? s.streetInputContainer
                     : s.streetInputContainerVertical,
-                  s[theme]
+                  s[theme],
                 )}
               >
                 {!isEmpty(errors.billingStreet) && (
@@ -599,11 +599,11 @@ export function AddAddress({
                 )}
               </TTPInput>
             </Autocomplete>
-          </LoadScript> */}
+          </LoadScript>
         </div>
         {/* billingPostalCode */}
         <div>
-          {/* <LoadScript
+          <LoadScript
             googleMapsApiKey={GOOGLE_MAP_API_KEY}
             libraries={["places"]}
             language={lng}
@@ -636,7 +636,7 @@ export function AddAddress({
                   horizontalInputs
                     ? s.inputsContainer
                     : s.inputsContainerVertical,
-                  s[theme]
+                  s[theme],
                 )}
               >
                 {!isEmpty(errors.billingPostalCode) && (
@@ -644,7 +644,7 @@ export function AddAddress({
                 )}
               </TTPInput>
             </Autocomplete>
-          </LoadScript> */}
+          </LoadScript>
         </div>
         {/* billingRegion */}
         <TTPInput

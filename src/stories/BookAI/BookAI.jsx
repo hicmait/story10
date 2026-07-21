@@ -5,7 +5,7 @@ import cn from "classnames";
 import style from "./BookAI.module.scss";
 import CheckMarkIcon from "../Icons/CheckMarkv2";
 import { I18N } from "../../i18n";
-import RegistrationModal from "./RegistrationModal";
+// import RegistrationModal from "./RegistrationModal";
 import ProductDetailModal from "./ProductDetailModal";
 
 export default function BookAI({
@@ -173,7 +173,11 @@ export default function BookAI({
   const listView = () => {
     return (
       <div
-        className={cn(style.book_box, isBought ? style.bought : "", showDetailsModal ? style.clickable : "")}
+        className={cn(
+          style.book_box,
+          isBought ? style.bought : "",
+          showDetailsModal ? style.clickable : "",
+        )}
         onClick={() => showDetailsModal && setShowDetailModal(true)}
       >
         <div className={style.book_image}>
@@ -269,7 +273,7 @@ export default function BookAI({
     <>
       {viewType === "slider" && sliderView()}
       {viewType === "list" && listView()}
-      {showModal && (
+      {/* {showModal && (
         <RegistrationModal
           token={token}
           product={product}
@@ -281,7 +285,7 @@ export default function BookAI({
           setShowModal={setShowModal}
           showFiduciareModal={showFiduciareModal}
         />
-      )}
+      )} */}
       {showDetailModal && (
         <ProductDetailModal
           product={product}
