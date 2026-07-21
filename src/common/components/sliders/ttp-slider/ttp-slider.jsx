@@ -3,7 +3,6 @@
 import classNames from "classnames";
 import { CSSProperties, ReactNode, useEffect, useState } from "react";
 // import { Pagination } from "swiper";
-// import { Swiper, SwiperClass, SwiperProps, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Scrollbar, A11y } from "swiper";
 
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -14,7 +13,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // import "swiper/css/pagination";
 // import "swiper/css/scrollbar";
 // import "swiper/css/pagination";
-import { ReactComponent as ArrowRight } from "../assets/arrow-right.svg";
+import ArrowRight from "../assets/arrow-right.svg?react";
 import styles from "./ttp-slider.module.scss";
 import { useResponsive } from "../../../hooks/useResponsive";
 
@@ -221,6 +220,7 @@ export default function TTPSlider({
     <div className={classNames(styles.ttp_slider, className)}>
       {renderHeader()}
       <Swiper
+        style={swiperStyle}
         className={classNames(styles.swiperWrapper, styles[theme])}
         slidesPerView={!isAuto && !isMobile ? nbrOfSlidesPerView : "auto"}
         slidesPerGroup={nbrOfSlidesPerGroup}

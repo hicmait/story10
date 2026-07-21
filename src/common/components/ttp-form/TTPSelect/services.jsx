@@ -1,5 +1,4 @@
-import React from "react";
-import { components, Props as ReactSelectProps } from "react-select";
+import { components } from "react-select";
 import PolygonIcon from "../assets/polygon.svg";
 import styles from "./TTPSelect.module.scss";
 

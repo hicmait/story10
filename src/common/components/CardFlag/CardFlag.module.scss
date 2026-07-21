@@ -20,4 +20,16 @@
     background: #fc5d2b !important;
     text-transform: uppercase;
   }
+
+  &.premium-subscribed {
+    background: #fb1e5b !important;
+  }
+
+  &.shared {
+    background: #fb1e5b !important;
+  }
+
+  &.registered {
+    background: #06d9b1 !important;
+  }
 }

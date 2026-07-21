@@ -1,12 +1,8 @@
 import classNames from "classnames";
 import { ErrorMessage, useField } from "formik";
 import React, { memo } from "react";
-import InputMask, {
-  BeforeMaskedStateChangeStates,
-  InputState,
-} from "react-input-mask";
-import ReactTooltip from "react-tooltip";
-// import { Tooltip } from "react-tooltip";
+import InputMask from "react-input-mask";
+import { Tooltip as ReactTooltip } from "react-tooltip";
 import HelpIcon from "./assets/alert-circle.svg";
 import styles from "./TTPForm.module.scss";
 import { isEmpty } from "../../../utils";

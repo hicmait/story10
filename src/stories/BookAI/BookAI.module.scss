@@ -1,0 +1,724 @@
+@import "../../styles/variables";
+$primary-color: #02af8e;
+$secondary-color: #06d9b1;
+$accent-color: #fb1e5b;
+$text-color: #29394d;
+$grey: #6d7f92;
+
+%book-image-base {
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 160% 110%;
+  border-radius: 8px;
+  display: flex;
+
+  img {
+    display: block;
+    height: 100%;
+    width: auto;
+  }
+
+  .book_channel_avatar {
+    margin: 10px;
+    margin-left: auto;
+
+    // padding: 6px 2px 0;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-bottom: 5px;
+
+    // img {
+    height: 27px;
+    width: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    //   object-fit: contain;
+    // }
+  }
+}
+
+%book-content-base {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex: 1;
+
+  .book_channel_avatar {
+    margin-left: auto;
+
+    // padding: 6px 2px 0;
+    border: 1px solid #f1f2f4;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-bottom: 5px;
+
+    // img {
+    height: 30px;
+    width: 52px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    // object-fit: contain;
+
+    // }
+  }
+
+  .book_title,
+  .book_title_bought {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+    margin: 4px 0;
+  }
+
+  .book_title_bought {
+    color: $primary-color;
+  }
+
+  .book_author_wrapper {
+    color: $grey;
+    font-size: 12px;
+  }
+
+  .book_version {
+    font-size: 9px;
+    margin: 8px 0;
+    font-style: italic;
+  }
+
+  .book_bought {
+    @extend %book-status;
+
+    color: $primary-color;
+
+    svg path {
+      stroke: $primary-color;
+    }
+  }
+
+  .book_price {
+    @extend %book-status;
+
+    color: $accent-color;
+  }
+
+  .book_action {
+    margin-top: 5px;
+    width: 100%;
+
+    .book_button {
+      margin: 4px 0;
+
+      a {
+        background-color: $secondary-color;
+        padding: 10px 22px;
+        text-transform: uppercase;
+        color: #fff;
+        font-weight: 500;
+        border-radius: 8px;
+        display: inline-block;
+
+        &:hover {
+          background-color: $primary-color;
+        }
+
+        &.book_access_button {
+          background-color: #18a0fb;
+          padding: 8px 26px;
+
+          &:hover {
+            background-color: #2495e1;
+          }
+        }
+      }
+    }
+
+    .book_paper a {
+      color: $grey;
+      font-size: 12px;
+      font-weight: 500;
+      margin: 4px 0;
+      text-decoration: underline;
+
+      &:hover {
+        color: $grey;
+      }
+    }
+  }
+}
+
+%book-status {
+  font-weight: 700;
+  font-size: 14px;
+  margin: 4px 0;
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+}
+
+.wrapperLivres {
+  position: relative;
+  margin-top: 10px;
+
+  h1 {
+    color: $text-color;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    top: 8px;
+  }
+
+  .channel_book_list,
+  .channel_two_book {
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    border-radius: 14px;
+    padding: 10px;
+    gap: 15px;
+    font-weight: 400;
+    color: $text-color;
+    font-size: 12px;
+    min-height: 350px;
+
+    .book_image {
+      @extend %book-image-base;
+
+      min-width: 100px;
+      height: 150px;
+    }
+
+    .book_content {
+      @extend %book-content-base;
+
+      max-width: calc(100% - 115px);
+
+      .book_title {
+        min-height: 90px;
+      }
+
+      .book_author_wrapper {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+        display: inline-block;
+      }
+
+      .book_action {
+        .book_button_section {
+          border-bottom: 1px solid #e1e4e8;
+          padding-bottom: 0;
+          margin-bottom: 6px;
+        }
+
+        .book_version {
+          margin: 4px;
+        }
+      }
+    }
+  }
+
+  .channel_two_book {
+    .book_image {
+      width: 128px;
+      height: 181px;
+
+      .book_channel_avatar {
+        width: 80px;
+        height: 44px;
+
+        // object-fit: contain;
+      }
+    }
+
+    .book_content {
+      max-width: calc(100% - 148px);
+
+      .book_title,
+      .book_title_bought {
+        min-height: 82px;
+      }
+
+      .book_channel_avatar {
+        width: 80px;
+        height: 44px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+
+        // object-fit: contain;
+      }
+
+      .book_version {
+        font-size: 10px;
+        font-style: italic;
+      }
+    }
+  }
+
+  .channel_book {
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    border-radius: 14px;
+    padding: 30px;
+    gap: 30px;
+    font-weight: 400;
+    color: $text-color;
+    font-size: 16px;
+    min-height: 350px;
+
+    .book_image {
+      @extend %book-image-base;
+
+      width: 200px;
+      height: 285px;
+    }
+
+    .book_content {
+      @extend %book-content-base;
+
+      max-width: calc(100% - 230px);
+
+      .book_title,
+      .book_title_bought {
+        font-size: 22px;
+        margin-bottom: 5px;
+      }
+
+      .book_channel_avatar {
+        height: 44px;
+        width: 80px;
+
+        // object-fit: contain;
+      }
+
+      .book_action {
+        .book_button_section {
+          border-bottom: 1px solid #e1e4e8;
+          display: flex;
+          align-items: center;
+          padding-bottom: 4px;
+          margin-bottom: 4px;
+          gap: 8px;
+
+          .book_version {
+            font-size: 12px;
+            margin: 8px 0;
+            font-style: italic;
+          }
+        }
+      }
+    }
+
+    // @media (width <= 640px) {
+    //   .channel_book {
+    //     gap: 10;
+    //     padding: 5px;
+    //   }
+
+    //   .book_image {
+    //     width: 100px;
+    //     height: 150px;
+    //   }
+
+    //   .book_content {
+    //     max-width: calc(100% - 100px);
+
+    //     .book_title,
+    //     .book_title_bought {
+    //       min-height: 90px;
+    //       font-size: 18px;
+    //     }
+
+    //     .book_button_section {
+    //       display: block !important;
+
+    //       .book_button {
+    //         a {
+    //           font-size: 12px;
+    //           padding: 5px 11px;
+    //         }
+    //       }
+
+    //       .book_version {
+    //         font-size: 6px;
+    //       }
+    //     }
+    //   }
+    // }
+
+    // @media (width <= 850px) {
+    //   .book_button_section {
+    //     display: block !important;
+    //   }
+    // }
+
+    // @media (width <= 640px) {
+    //   flex-direction: column;
+    //   gap: 20px;
+
+    //   .book_image {
+    //     &.channel_two_book & {
+    //       width: 128px;
+    //       height: 181px;
+
+    //       .book_channel_avatar img {
+    //         height: 27px;
+    //         width: 48px;
+    //       }
+    //     }
+
+    //     // background-size: 110% 110%;
+    //   }
+
+    //   .book_content {
+    //     .book_title,
+    //     .book_title_bought {
+    //       font-size: 16px;
+    //     }
+
+    //     .book_version,
+    //     .book_price,
+    //     .book_button {
+    //       font-size: 12px;
+    //     }
+    //   }
+    // }
+
+    // @media (width <= 450px) {
+    //   .book_image {
+    //     height: 200px;
+    //   }
+    // }
+  }
+
+  .bought {
+    background-color: #edfaf5;
+    border: 1px solid #adffef;
+    border-radius: 5px;
+  }
+
+  .channel_loader {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+// Listing view
+.book_box {
+  padding: 14px;
+  border-radius: 8px;
+  border: 0.5px solid #b2bcc6;
+  background: #fff;
+
+  .book_image {
+    margin: 0 auto;
+    height: 170px;
+    width: 120px; 
+    border-radius: 5px;
+    border: 1px solid #f1f2f4;
+    background-color: #e5e5e5;
+
+    img {
+      display: block;
+      height: 100%;
+      width: auto;
+    }
+  }
+
+  .book_title {
+    min-height: 60px;
+    color: #29394d;
+    text-overflow: ellipsis;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    text-align: center;
+    margin: 10px 0 0;
+  }
+
+  .book_authors {
+    overflow: hidden;
+    color: #6d7f92;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    max-width: 220px;
+    height: 20px;
+    margin-bottom: 20px;
+  }
+
+  .book_action {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .book_bought {
+    @extend %book-status;
+
+    color: $primary-color;
+
+    svg path {
+      stroke: $primary-color;
+    }
+  }
+
+  .book_price {
+    flex-shrink: 0;
+    color: #29394d;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22.4px;
+
+    span {
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 16.8px;
+    }
+  }
+
+  .book_button {
+    flex-shrink: 0;
+    a {
+      background-color: $secondary-color;
+      padding: 8px 10px;
+      text-transform: uppercase;
+      color: #fff;
+      border-radius: 12px;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 19.6px;
+
+      &:hover {
+        background-color: $primary-color;
+      }
+
+      &.book_access_button {
+        background-color: #18a0fb;
+        padding: 8px 26px;
+
+        &:hover {
+          background-color: #2495e1;
+        }
+      }
+    }
+  }
+
+  .book_channel_avatar {
+    border-radius: 5px;
+    background-color: #fff;
+    margin-bottom: 5px;
+    height: 33px;
+    width: 57px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #f1f2f4;
+  }
+
+  .book_version {
+    font-size: 9px;
+    margin: 8px 0;
+    font-style: italic;
+  }
+
+  .book_paper a {
+    color: $grey;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 4px 0;
+    text-decoration: underline;
+
+    &:hover {
+      color: $grey;
+    }
+  }
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.listItem {
+  flex: 0 0 100%;
+}
+
+.filters {
+  color: #29394d;
+  font-family: Roboto;
+}
+
+.filter_title {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 25.2px;
+}
+
+.filter_box {
+  margin: 20px 0;
+  padding-top: 10px;
+  border-top: 1px solid #e1e4e8;
+
+  &_title {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    margin-bottom: 15px;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    font-size: 12px;
+    line-height: 16.8px;
+  }
+}
+
+.search_container {
+  position: relative; /* Context for absolute child positioning */
+  display: inline-block;
+  width: 100%;
+  margin: 10px 0;
+  // max-width: 400px;
+}
+
+.search_icon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: #6d7f92;
+}
+
+.search_input {
+  width: 100%;
+  padding: 10px 12px 10px 36px;
+  border: 1px solid #b2bcc6;
+  border-radius: 12px;
+  box-sizing: border-box;
+  background-color: #f1f2f4;
+  color: #6d7f92;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16.8px;
+}
+
+.search_input:focus {
+  outline: none;
+  border-color: #3b82f6;
+}
+
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease;
+  z-index: 1000;
+
+  &.active {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.modalFilterContent {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  z-index: 1001;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  transform: translateY(100%);
+  transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  &.active {
+    transform: translateY(0);
+  }
+}
+
+.modalFilterTrigger {
+  border-radius: 12px;
+  border: 0.5px solid #b2bcc6;
+  background: #f1f2f4;
+  display: flex;
+  padding: 8px 10px;
+  align-items: center;
+  gap: 10px;
+}
+
+.modalFilterTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modalFilterClose {
+  border: 1px solid #b2bcc6;
+  background-color: #fff;
+  border-radius: 12px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .filters {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+}
+
+/* Tablet Layout: 768px and up (2 columns) */
+@media (min-width: 768px) {
+  .listItem {
+    flex: 0 0 calc(50% - 8px);
+  }
+}
+
+/* Desktop Layout: 1024px and up (3 columns) */
+@media (min-width: 1024px) {
+  .listItem {
+    flex: 0 0 calc(33.333% - 10.67px);
+  }
+}

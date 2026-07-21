@@ -7,6 +7,18 @@ const getFlagProps = (flag) => {
     return { text: "includedPremium" };
   }
 
+  if (flag === "shared") {
+    return { text: "sharedAccess" };
+  }
+
+  if (flag === "premium-subscribed") {
+    return { text: "subscribedPremium" };
+  }
+
+  if (flag === "registered") {
+    return { text: "registeredFlag" };
+  }
+
   return { text: "soldOut" };
 };
 

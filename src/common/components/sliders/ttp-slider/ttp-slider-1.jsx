@@ -2,10 +2,10 @@
 
 import classNames from "classnames";
 import { ReactNode, useEffect, useRef, useState } from "react";
-import { Swiper, SwiperClass, SwiperProps, SwiperSlide } from "swiper/react";
-import { ReactComponent as ArrowRight } from "../assets/arrow-right.svg";
-import { ReactComponent as ChevronRight } from "../assets/chevron-right.svg";
-import { ReactComponent as ChevronIcon } from "../assets/chevron-up.svg";
+import { Swiper, SwiperSlide } from "swiper/react";
+import ArrowRight from "../assets/arrow-right.svg?react";
+import ChevronRight from "../assets/chevron-right.svg?react";
+import ChevronIcon from "../assets/chevron-up.svg?react";
 import styles from "./ttp-slider.module.scss";
 import { useResponsive } from "../../../hooks/useResponsive";
 
